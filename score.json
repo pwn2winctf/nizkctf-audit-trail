@@ -1,1 +1,24 @@
-{"tasks": ["chall_para_teste", "test_0B"], "standings": [{"team": "TEST TEAM", "taskStats": {"chall_para_teste": {"points": 500, "time": 1620067917590}, "test_0B": {"points": 500, "time": 1620072096025}}, "score": 1000, "lastAccept": 1620072096025, "pos": 1}]}
+{
+ "standings": [
+  {
+   "lastAccept": 1620072096025,
+   "pos": 1,
+   "score": 1000,
+   "taskStats": {
+    "chall_para_teste": {
+     "points": 500,
+     "time": 1620067917590
+    },
+    "test_0B": {
+     "points": 500,
+     "time": 1620072096025
+    }
+   },
+   "team": "TEST TEAM"
+  }
+ ],
+ "tasks": [
+  "chall_para_teste",
+  "test_0B"
+ ]
+}

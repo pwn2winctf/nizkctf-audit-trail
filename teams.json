@@ -1,1 +1,16 @@
-[{"id": "cea1c2a5509b42e90fbfa5409b99f8c1d644aa854c5a5b3d348c9b3262601ead", "name": "TEST TEAM", "members": ["FZCHVQjyLqaNW4i8DYcxuxPGJFu1"], "countries": ["br", "cn", "in", "ru", "za"]}]
+[
+ {
+  "countries": [
+   "br",
+   "cn",
+   "in",
+   "ru",
+   "za"
+  ],
+  "id": "cea1c2a5509b42e90fbfa5409b99f8c1d644aa854c5a5b3d348c9b3262601ead",
+  "members": [
+   "FZCHVQjyLqaNW4i8DYcxuxPGJFu1"
+  ],
+  "name": "TEST TEAM"
+ }
+]
