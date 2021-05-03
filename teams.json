@@ -1,16 +1,153 @@
 [
  {
   "countries": [
-   "br",
-   "cn",
-   "in",
-   "ru",
-   "za"
+   "br"
   ],
-  "id": "cea1c2a5509b42e90fbfa5409b99f8c1d644aa854c5a5b3d348c9b3262601ead",
+  "id": "a95af2a06bd3dda65416cab592fa5f03c811bd2c2446277e76882b04237ebfbb",
   "members": [
-   "FZCHVQjyLqaNW4i8DYcxuxPGJFu1"
+   "NQrD07h88BfhMR7IueRMoqoVB4l2"
   ],
-  "name": "TEST TEAM"
+  "name": "TIME TESTE"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "cb392292cf170a284e27beeaee359f12e522f5cfc77843699f3e4354cc7a28ec",
+  "members": [
+   "d6IOczH2qIUqGwtHPGHDJBszzx42"
+  ],
+  "name": "Ganesh"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "d46b8dcdd4b184d318e7a2ae78285c26dc46a7e567b102bb6f691e383b09b93a",
+  "members": [
+   "iZYGFq5nbBcP7RXOF9Qo9BmMvli1"
+  ],
+  "name": "Deadlock_Team"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "882c453e464744fd66dd41df9a9dc7658a3aeaa60f03c47a55574d0d9d3e4795",
+  "members": [
+   "bGek8WYUFRh2uYKzA55tRMMa9JF2"
+  ],
+  "name": "Tricknet"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "ece6e625297392683f858d915e0f6faf32e61e2efcf617df221313e8620ffe88",
+  "members": [
+   "eTtaRkvxPCgwXXHZmdChoXzUHbh2"
+  ],
+  "name": "P@nd@"
+ },
+ {
+  "countries": [
+   "pt"
+  ],
+  "id": "a8759ed9f85e70e5879823b5d9d21d0a3d24da9000bd4edb2898a531886083a8",
+  "members": [
+   "ICiaafNzvYOdBIf03TTREFb7Y4D2"
+  ],
+  "name": "CYBERS3C"
+ },
+ {
+  "countries": [
+   "pl",
+   "ru"
+  ],
+  "id": "0c63d96f5678cdfe3c74184ba8a61e027697733b0a3b40afd7672428b0eeb776",
+  "members": [
+   "geSdxJyYLOfdCYEuWTe2D0z3HY93"
+  ],
+  "name": "EvilBunnyWrote"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "fb110f3e0315498808e436ddb148f93d62bf1a851616ab5e76e824593bc13ccb",
+  "members": [
+   "XMI3sJJDMDUAn37rUsrrF5mZYin2"
+  ],
+  "name": "P3QU1"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "9e0649c5b30627df85366854de82155f6915ee8407b702955d1f706e22db2fb8",
+  "members": [
+   "TpruUBZeGWXutgDhAdvtgg4iS4w2"
+  ],
+  "name": "fireshell"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "8a3a0461897fb967f34289e6980c133ed475d7e3a0ca47ae0465a48dacf9c96f",
+  "members": [
+   "3JdNssqthKTYXpWf1wZna6RYekG2"
+  ],
+  "name": "Aburame"
+ },
+ {
+  "countries": [
+   "in"
+  ],
+  "id": "51c52a821f9daa7a67a2c0cfec31796ad80f5a5b0468ebe6def26341879ad007",
+  "members": [
+   "NsYzu4g97Nbgse1Gb8YkyKA5Fr02"
+  ],
+  "name": "polymath"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "822a8e0aad6a68a99ee9db27651f1f6115414b7a772984b3f6609246ffbe3ef5",
+  "members": [
+   "Se4pFfYxLjfukocMmwgkzrc7Fqr2"
+  ],
+  "name": "4747"
+ },
+ {
+  "countries": [
+   "af"
+  ],
+  "id": "a07825b0fbb545ac7881bf67250a37db3b27bc759f2df17bfb08ab07eff55c77",
+  "members": [
+   "2j55Z7FD6lP09v7j9AFVtkVys3r1"
+  ],
+  "name": "baby_yoda"
+ },
+ {
+  "countries": [
+   "us"
+  ],
+  "id": "f2a3e4bcb9603b5f1e0a87348b3b0a8186070f436f54a2e7242071e7924f55e8",
+  "members": [
+   "2DTf4DgVhpO87waB2bNMVthE0fC3"
+  ],
+  "name": "PFS"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "60c1718988b4189aa651d3e296544f4d76a76625f1eaf16c66ffe1e02264bb12",
+  "members": [
+   "9HUXzQyI7pX4cogY9A97DnyuF623"
+  ],
+  "name": "Noobs4While"
  }
 ]
