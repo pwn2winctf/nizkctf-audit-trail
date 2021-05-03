@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1620072096025,
+   "lastAccept": 1620075834657,
    "pos": 1,
-   "score": 1000,
+   "score": 1500,
    "taskStats": {
     "chall_para_teste": {
      "points": 500,
@@ -12,6 +12,10 @@
     "test_0B": {
      "points": 500,
      "time": 1620072096025
+    },
+    "test_0D": {
+     "points": 500,
+     "time": 1620075834657
     }
    },
    "team": "TEST TEAM"
