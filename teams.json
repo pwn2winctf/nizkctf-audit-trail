@@ -33,6 +33,26 @@
   "countries": [
    "br"
   ],
+  "id": "d84d8a8460b052e70242ed6245e731a3a6b448b7c32d141955accc2ea2de9411",
+  "members": [
+   "1AseIbFZDFcKukHG9RsFpTxbptB2"
+  ],
+  "name": "mrg3ntl3m4n"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "4a6e029918152e1b0ad59ef75af1b048059bc65a7677edc68e920b2c50675ba1",
+  "members": [
+   "zHf0cGLSQ9X7jBfNyP0rh9nUgds1"
+  ],
+  "name": "SegInfo67"
+ },
+ {
+  "countries": [
+   "br"
+  ],
   "id": "882c453e464744fd66dd41df9a9dc7658a3aeaa60f03c47a55574d0d9d3e4795",
   "members": [
    "bGek8WYUFRh2uYKzA55tRMMa9JF2"
@@ -249,26 +269,6 @@
   "name": "R2D2"
  },
  {
-  "countries": [
-   "br"
-  ],
-  "id": "d84d8a8460b052e70242ed6245e731a3a6b448b7c32d141955accc2ea2de9411",
-  "members": [
-   "1AseIbFZDFcKukHG9RsFpTxbptB2"
-  ],
-  "name": "mrg3ntl3m4n"
- },
- {
-  "countries": [
-   "br"
-  ],
-  "id": "4a6e029918152e1b0ad59ef75af1b048059bc65a7677edc68e920b2c50675ba1",
-  "members": [
-   "zHf0cGLSQ9X7jBfNyP0rh9nUgds1"
-  ],
-  "name": "SegInfo67"
- },
- {
   "countries": [],
   "id": "44dcd48bd1c6ba36c6cee952fa3f6dfcdcd49ad1f6cdd0b42f44b661427a88b8",
   "members": [
@@ -385,5 +385,132 @@
    "8yVahzzzRmacgkwbgllsYJXpRyX2"
   ],
   "name": "NjordSec"
+ },
+ {
+  "countries": [
+   "pt"
+  ],
+  "id": "fc7b7a68c25268a0cbd78fa1e296a827b1262bc954ecbc96bb296864ff772b6e",
+  "members": [
+   "5YcAQstjgVU8dFuFbdeYgFd5cAc2"
+  ],
+  "name": "r3d"
+ },
+ {
+  "countries": [
+   "cn"
+  ],
+  "id": "135b9238a6358e6c64f2f75855029842a235812045f830ef641c85f4288b2654",
+  "members": [
+   "eHR8LgLepwhjGc00E5urp2nDVkW2"
+  ],
+  "name": "Ph0t1n1a"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "3a232000d48b06559faa8fd5429111219a22242469d3fe304e75b71dd904f529",
+  "members": [
+   "liyiFKU57ShgV6DMgrEZ22xY4Wg1"
+  ],
+  "name": "DOPS"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "f575241394e75b4d690b9bc71d8fac9c9318c1c521254fe925cb3cd33b8738a2",
+  "members": [
+   "gLCPZZXqPCVEpxPonOXlpB5tReu1"
+  ],
+  "name": "R3hp1C"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "bf2fa93903de89bf50c908d651c301ebcf8038a78126d18aa5c6d29c466d263c",
+  "members": [
+   "zhdkUZxZ2ZeXvMvrhi5eVvr54E72"
+  ],
+  "name": "w44z"
+ },
+ {
+  "countries": [],
+  "id": "50614751db3eb379df016f94bb7971d36a536ed0f539eaa4a525f27c48263f50",
+  "members": [
+   "Q6tYtYIBjDeBiXLdHmnFM6oHfRM2"
+  ],
+  "name": "fzhshzh"
+ },
+ {
+  "countries": [],
+  "id": "49575cb46d7853576a4dc2f14d3f62e7519a859b0095991fe1ea309e011be1af",
+  "members": [
+   "N5tCF3s7WYQgHxUncUZPxIua5r73"
+  ],
+  "name": "Noproplem"
+ },
+ {
+  "countries": [
+   "ca",
+   "us"
+  ],
+  "id": "7a134701788d92a099775b703f0cf7011407a4f78a2776ea443f8b70d65bcc20",
+  "members": [
+   "bKQlszcrseVIq30x2eSkcWS5rv93"
+  ],
+  "name": "DeepThonts"
+ },
+ {
+  "countries": [
+   "kr"
+  ],
+  "id": "d86ea23ca85000c09b64ef37566dd0f0f486c4ffe95da1edabff48f2f4569d40",
+  "members": [
+   "G2lAvD6jTPNp9ePutOJJtLjgaSi1"
+  ],
+  "name": "TeamH4C:CTF"
+ },
+ {
+  "countries": [
+   "us"
+  ],
+  "id": "2ef8f5656b991a623878fafeb6a4902dc75e7fbbe9d12a649c545e5a08009f3b",
+  "members": [
+   "iHV6iUML0mf4woyxKQVyH6bRWPJ3"
+  ],
+  "name": "Phoenix Cats"
+ },
+ {
+  "countries": [
+   "cn"
+  ],
+  "id": "5f0cc48ee2ef67c10a5fb3515f221878a47d34f4519bdba83ef27a55f92f46e9",
+  "members": [
+   "JaDWO1wtOVXuy48Tiah35eQ2Y8k2"
+  ],
+  "name": "ATD"
+ },
+ {
+  "countries": [
+   "in"
+  ],
+  "id": "3eac93a9137214591ba325f7507fa2a7287beb6da34eb2d2bcdd3b8f037512f1",
+  "members": [
+   "IOvq4ij69WOQUnOQjW6TGPuYhQg2"
+  ],
+  "name": "Fs0ciety00"
+ },
+ {
+  "countries": [
+   "cn"
+  ],
+  "id": "3efc6babe61903ce8bab6bb7d58bf193310cce0744893774a481ef8c4375cf27",
+  "members": [
+   "X1SvA8rXf6YMitHfmYg9CoFqVpx1"
+  ],
+  "name": "\u6674\u5929"
  }
 ]
