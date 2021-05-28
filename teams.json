@@ -5873,6 +5873,14 @@
   "name": "pakekoding"
  },
  {
+  "countries": [],
+  "id": "a4517a15adcabb89e35a13772c41bf6353b5efada44d8e2c9714e2ebf7d97628",
+  "members": [
+   "zj8RLYnbMYY8UJDw2Y2LbYribPC2"
+  ],
+  "name": "plemian"
+ },
+ {
   "countries": [
    "in"
   ],
@@ -7921,5 +7929,27 @@
    "znWboPI6P9bDQC8M5K84c6jMNzN2"
   ],
   "name": "Ba Sing Sec"
+ },
+ {
+  "countries": [
+   "us"
+  ],
+  "id": "23326bbc7c3873867897f159640f7c9ed70d5e9a4fa267a89ceccca743d9f66a",
+  "members": [
+   "ltrvcI2L66XHpq1jsFxQYOJLmUk1"
+  ],
+  "name": "DamoNeer"
+ },
+ {
+  "countries": [
+   "us",
+   "ca",
+   "au"
+  ],
+  "id": "1ff67d025c49766379ce93de58a66185f323dc6eb33ce1b6a852b6ebc0e39c32",
+  "members": [
+   "YEGxYyzxgWgoqQdn5RMHEiwII4T2"
+  ],
+  "name": "The Additional Payphones"
  }
 ]
