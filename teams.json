@@ -6639,5 +6639,25 @@
    "75rdrXprBMeOjj4nUsi6w1zY64m1"
   ],
   "name": "CRUSADERS"
+ },
+ {
+  "countries": [
+   "in"
+  ],
+  "id": "10de8f4b0a7de8f0eeec2cd24293eee906980259e8bc22a0d7670ffea4b23af8",
+  "members": [
+   "l1WX0Jg2mebCliODB87981IwIIV2"
+  ],
+  "name": "R&D_CCA"
+ },
+ {
+  "countries": [
+   "jp"
+  ],
+  "id": "2955e26fa9b51d4711447bbecc9f6ac4874c1150e38fed00bad9b7078685174f",
+  "members": [
+   "KeOMN8rAcfPE0Ru3elGGim9zZPp2"
+  ],
+  "name": "TokyoWesterns"
  }
 ]
