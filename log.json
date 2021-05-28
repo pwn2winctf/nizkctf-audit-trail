@@ -1752,6 +1752,12 @@
   "teamId": "b9b51dff417df257dd65f7d6043a6641e366c0709659a987ec2996d048b64e87"
  },
  {
+  "challengeId": "illusion",
+  "flag": "kASJl1OfQbz74h0IFd4BbRfGM5+4sk15ecXtPAShBsaNB3LrOQfjJpxyRCC8VNixI3KFS6nXp+rFgeoplOwbDzg4M2I1MmM3MTY1NDkxNWYzZjQwM2M1MjlmNWEwNWU4NmEyM2M4MDM5Njg0YmY5MWUwOGYxMGEwMDUwZTc4ODQ=",
+  "moment": 1622229639801,
+  "teamId": "883b52c71654915f3f403c529f5a05e86a23c8039684bf91e08f10a0050e7884"
+ },
+ {
   "challengeId": "_rhiza_founded_on_the_human_be",
   "flag": "Bvus8ddabX2GIR8rOwSYpFlEOnG3FFLMjMPd9arvbk68+DSJDJHpYsVjsuRiMzXTEwJbKBFp0yjvo8hs2wvLCmYzY2FhYjMxYzM1ZWI4Zjk3NzZiNjEyNGNlYjBmNTQwZTA3Y2M1OTg5Yjk3NTBhZjNjNTJiNmEzMTQwYTNiMGU=",
   "moment": 1622224660520,
@@ -2008,5 +2014,47 @@
   "flag": "RiOVSCgO96uDpYSxdEAa5ZgFFLAR8Qr8zrVFtdtuTwOhLqnB1iGkxv95X5f7+r/Sljms6WlbklOjPA8DeaniADdjMThhZTFlMmE4NjQwY2VmZWEzZTVhMDBjMzM0Yzc0ZWZmYzZlYjNkZDNlM2U5NGUyYjlkZjU0N2I2YTUzNWQ=",
   "moment": 1622227011177,
   "teamId": "7c18ae1e2a8640cefea3e5a00c334c74effc6eb3dd3e3e94e2b9df547b6a535d"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "iiAxyin55y9GFlUY1E8VwOmUkgafW/XY0lb9WQ9QywpsV0bqvQvIamQFoyHaqg+1kdslWg4qYPMsNKhfh9cPADk0NDRiNWU1MzRkMmVjODhmZDJiNGNiNjFkYTU3NGVmMzBmMGE3NWIzNTg2NTljOGJiMWZhMzdkNDAwMjk5NDY=",
+  "moment": 1622228665145,
+  "teamId": "9444b5e534d2ec88fd2b4cb61da574ef30f0a75b358659c8bb1fa37d40029946"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "MzQEQjqHBukl7eZaFnD3cmahM7jlACee5iSUUaM/4HS6TgftOOmWMBM3YIaEkTeZlIpVLkoPNcSctE04SPrXCzQwZjhjZGVhMTA0YzU1MTQ1NDkwZDIyMDMxYTFkODY0YzgwN2RhY2YwYzc2YmMwMGI2MDFjOGEzNDFjZTY1ZTM=",
+  "moment": 1622228966587,
+  "teamId": "40f8cdea104c55145490d22031a1d864c807dacf0c76bc00b601c8a341ce65e3"
+ },
+ {
+  "challengeId": "baby_write_only_password_manag",
+  "flag": "2rR1PYYSEs5IBwA6Wslex3R3kOfOgGlZrBUMFWMyLd52SLZFACv+7uS8Oz/HYaQGzUV+DcvP+NwFtfQEJCKuAmEyYzBjZWM4YmZiMzE1YTA2YmViN2M4MGU3NjRkNDNlNzQ3NmE4MGU0NzViNjkxZjhhM2JkODY0NTQ2ODlkMTc=",
+  "moment": 1622229053068,
+  "teamId": "a2c0cec8bfb315a06beb7c80e764d43e7476a80e475b691f8a3bd86454689d17"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "4FOyWPsL20Zw4D/j/7NqpVqfOLaR8utWqgVBvOxv1ygirO+iTzq+UCtmE8VIv5csXqaPuBp/9J3SJbOZGjkHCTBkNzZlZmQ2OTEyNTk3ODU3MzczOTVlNWUwN2ZkMDIxOWI0OWYxY2Y1Y2Q1MjZjODZjYjE1MWNhZDk1MzZmOTY=",
+  "moment": 1622229700419,
+  "teamId": "0d76efd691259785737395e5e07fd0219b49f1cf5cd526c86cb151cad9536f96"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "Cox/uE3WZHgeNvkgEBaMLfJl0ErW/9MLT2gVU5kpUCbxluqB4VtJtIOY6ez3Bnz1XY37KbJ8hPpy8I+2XXKZBjM3NWYxZDFmMDZlNzM5ZGM3YTAyZjc2OWNlNTE5OWRkNGRhZmZlNmJkMjY3NzgxMmU0YzY0YTQ3NWYxZDg0Yjk=",
+  "moment": 1622229706888,
+  "teamId": "375f1d1f06e739dc7a02f769ce5199dd4daffe6bd2677812e4c64a475f1d84b9"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "5WmuxHfxO/mxQTpk3ozurUBJOp7METZje7OITp7vM3ih5QOSB6sbSu4QoaqVxg/OTwMTSgGCtgEpmy6Rj2aABjc0Mjc4MmE2MWQ0MGY2MmFhYzUxM2EwMmMyYjI3NDMxMzM2NDYyM2Y2YTBhNGIxZDIxYmNhY2VlYzE2ZjMzZGY=",
+  "moment": 1622229776039,
+  "teamId": "742782a61d40f62aac513a02c2b274313364623f6a0a4b1d21bcaceec16f33df"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "KEitHxM4DNcD5obp3Vms2bPn+rrE+lp9iUiKokbtl/uBu0bGUMa+oa6PaqnkwVPN8JLbenV8my6Ve+YXOPeWAmZjZTc2OTQwZDJhM2E4ZWFmM2VkOTQ2ZjFlMzEyMmZhNDcxYjc2YTM0MTcyMDEwZTc2NDVkMTk1YjhhOTkwNmU=",
+  "moment": 1622229785465,
+  "teamId": "fce76940d2a3a8eaf3ed946f1e3122fa471b76a34172010e7645d195b8a9906e"
  }
 ]
