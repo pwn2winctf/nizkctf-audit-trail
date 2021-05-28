@@ -35,14 +35,14 @@
   {
    "lastAccept": 1622239547285,
    "pos": 2,
-   "score": 1791,
+   "score": 1770,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622220678239
     },
     "dots_exposed": {
-     "points": 474,
+     "points": 453,
      "time": 1622239547285
     },
     "hackus": {
@@ -89,13 +89,17 @@
    "team": "More Smoked Leet Chicken"
   },
   {
-   "lastAccept": 1622233304339,
+   "lastAccept": 1622240515200,
    "pos": 4,
-   "score": 1237,
+   "score": 1690,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622219905576
+    },
+    "dots_exposed": {
+     "points": 453,
+     "time": 1622240515200
     },
     "illusion": {
      "points": 314,
@@ -159,7 +163,7 @@
   {
    "lastAccept": 1622231978515,
    "pos": 7,
-   "score": 959,
+   "score": 938,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -170,7 +174,7 @@
      "time": 1622231978515
     },
     "dots_exposed": {
-     "points": 474,
+     "points": 453,
      "time": 1622225852506
     }
    },
@@ -4915,6 +4919,54 @@
     }
    },
    "team": "OneManArm"
+  },
+  {
+   "lastAccept": 1622239923150,
+   "pos": 396,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622239923150
+    }
+   },
+   "team": "MajesticElhia"
+  },
+  {
+   "lastAccept": 1622240088673,
+   "pos": 397,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622240088673
+    }
+   },
+   "team": "p a i n"
+  },
+  {
+   "lastAccept": 1622240360619,
+   "pos": 398,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622240360619
+    }
+   },
+   "team": "Usual_Guests"
+  },
+  {
+   "lastAccept": 1622240423997,
+   "pos": 399,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622240423997
+    }
+   },
+   "team": "Ninjas in Pyjamas"
   }
  ],
  "tasks": [
