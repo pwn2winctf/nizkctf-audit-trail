@@ -3615,6 +3615,14 @@
   "name": "b4nk3rs"
  },
  {
+  "countries": [],
+  "id": "2e900a7fa89c83e132147fd4365ebc87ba103c3a40c32ad4ca69e90cf37c9665",
+  "members": [
+   "sQKzQNw7SMaYVv7Ty8ezfFHUj0v2"
+  ],
+  "name": "rametrid"
+ },
+ {
   "countries": [
    "us"
   ],
@@ -7875,5 +7883,43 @@
    "GrUPBNsbQLTcsNFbfnyeXid8CM82"
   ],
   "name": "IsolatingBeforeItWasCool"
+ },
+ {
+  "countries": [
+   "in"
+  ],
+  "id": "5f4b2fc3da24367b62df488bce137e129317caa295a590f5768b142d827efea8",
+  "members": [
+   "KkONapc19YZfG2H6gpdoeAZ90Tz1"
+  ],
+  "name": "csictf"
+ },
+ {
+  "countries": [
+   "us"
+  ],
+  "id": "085fd8a89a0366e19e0f62c1cd032c745506e7fa0fbd4babff67027767145c9f",
+  "members": [
+   "4bkLWd88YBe6z0dymDDOWiTB9U82"
+  ],
+  "name": "Glorified_script_kiddies "
+ },
+ {
+  "countries": [],
+  "id": "62ef5d85a9936b0b1d9391bcfc0b9ae393e76cf6e7f11342918e7c28d397ff09",
+  "members": [
+   "xSyCp2bEIqWnNdLIPMpU1zCZfSN2"
+  ],
+  "name": "mcmayhem"
+ },
+ {
+  "countries": [
+   "us"
+  ],
+  "id": "0cd0322f546afc2c1f7089ae1108966cb60390dfa5766b94be2bf66ba4eea29a",
+  "members": [
+   "znWboPI6P9bDQC8M5K84c6jMNzN2"
+  ],
+  "name": "Ba Sing Sec"
  }
 ]
