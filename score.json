@@ -3,7 +3,7 @@
   {
    "lastAccept": 1622241135334,
    "pos": 1,
-   "score": 2661,
+   "score": 2646,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -14,7 +14,7 @@
      "time": 1622230461044
     },
     "baby_write_only_password_manag": {
-     "points": 435,
+     "points": 420,
      "time": 1622230305226
     },
     "cladorhizidae": {
@@ -149,69 +149,17 @@
    "team": "Super Guesser"
   },
   {
-   "lastAccept": 1622238019958,
+   "lastAccept": 1622241546676,
    "pos": 6,
-   "score": 985,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622220075151
-    },
-    "baby_write_only_password_manag": {
-     "points": 435,
-     "time": 1622229053068
-    },
-    "t00_rare": {
-     "points": 500,
-     "time": 1622238019958
-    }
-   },
-   "team": "Organizers"
-  },
-  {
-   "lastAccept": 1622231978515,
-   "pos": 7,
-   "score": 938,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622226060616
-    },
-    "baby_write_only_password_manag": {
-     "points": 435,
-     "time": 1622231978515
-    },
-    "dots_exposed": {
-     "points": 453,
-     "time": 1622225852506
-    }
-   },
-   "team": "hxp"
-  },
-  {
-   "lastAccept": 1622238648509,
-   "pos": 8,
-   "score": 855,
-   "taskStats": {
-    "baby_write_only_password_manag": {
-     "points": 435,
-     "time": 1622238648509
-    },
-    "c_mon_see_my_vulns": {
-     "points": 420,
-     "time": 1622234005572
-    }
-   },
-   "team": "The Flat Network Society"
-  },
-  {
-   "lastAccept": 1622236421294,
-   "pos": 9,
-   "score": 778,
+   "score": 1198,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622220102403
+    },
+    "baby_write_only_password_manag": {
+     "points": 420,
+     "time": 1622241546676
     },
     "c_mon_see_my_vulns": {
      "points": 420,
@@ -223,6 +171,62 @@
     }
    },
    "team": "justCatTheFish"
+  },
+  {
+   "lastAccept": 1622238019958,
+   "pos": 7,
+   "score": 970,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622220075151
+    },
+    "baby_write_only_password_manag": {
+     "points": 420,
+     "time": 1622229053068
+    },
+    "t00_rare": {
+     "points": 500,
+     "time": 1622238019958
+    }
+   },
+   "team": "Organizers"
+  },
+  {
+   "lastAccept": 1622231978515,
+   "pos": 8,
+   "score": 923,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622226060616
+    },
+    "baby_write_only_password_manag": {
+     "points": 420,
+     "time": 1622231978515
+    },
+    "dots_exposed": {
+     "points": 453,
+     "time": 1622225852506
+    }
+   },
+   "team": "hxp"
+  },
+  {
+   "lastAccept": 1622238648509,
+   "pos": 9,
+   "score": 840,
+   "taskStats": {
+    "baby_write_only_password_manag": {
+     "points": 420,
+     "time": 1622238648509
+    },
+    "c_mon_see_my_vulns": {
+     "points": 420,
+     "time": 1622234005572
+    }
+   },
+   "team": "The Flat Network Society"
   },
   {
    "lastAccept": 1622240692843,
@@ -5031,6 +5035,30 @@
     }
    },
    "team": "onotch"
+  },
+  {
+   "lastAccept": 1622241307577,
+   "pos": 404,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622241307577
+    }
+   },
+   "team": "Llama"
+  },
+  {
+   "lastAccept": 1622241591323,
+   "pos": 405,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622241591323
+    }
+   },
+   "team": "UCSD"
   }
  ],
  "tasks": [
