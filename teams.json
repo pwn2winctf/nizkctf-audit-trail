@@ -6659,5 +6659,33 @@
    "KeOMN8rAcfPE0Ru3elGGim9zZPp2"
   ],
   "name": "TokyoWesterns"
+ },
+ {
+  "countries": [
+   "br"
+  ],
+  "id": "142a37d255edee5f3167687bc829ccab93a276ebb3e37752d736b8427c94e10d",
+  "members": [
+   "UwVn70eDcbdi2mRxIIU9ylEv7tw2"
+  ],
+  "name": "IMESEC"
+ },
+ {
+  "countries": [
+   "us"
+  ],
+  "id": "fd5c376c4ce6e080b345d76b95bbfa13c2afb2ad2778978d7f392367f4712cfc",
+  "members": [
+   "jLxhekIVN6cH3ELV69uQEYJDIms2"
+  ],
+  "name": "RedTeam@MTU"
+ },
+ {
+  "countries": [],
+  "id": "e0dff875f24ed05cea565a38b827ba3e5a5a2394481d1da3c6fd0d64529d8f04",
+  "members": [
+   "h3VTBh9Iz5NlAr8GltwAtEpenUl2"
+  ],
+  "name": "Imperi"
  }
 ]
