@@ -5235,6 +5235,18 @@
     }
    },
    "team": "MechanicalMind"
+  },
+  {
+   "lastAccept": 1622244115209,
+   "pos": 419,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622244115209
+    }
+   },
+   "team": "onealmond"
   }
  ],
  "tasks": [
