@@ -5578,5 +5578,35 @@
   "flag": "zm2UNagI9sM+V/ZKOk4RUz08PpiHdrT/5dS7dLKiOhPx9HEJtaq4X783/XX2Ub4I5zZid5sxMiqx5NL8bZIKADQyN2Y0NDc2MDBjNzg1NmZhOWQyNTYwMGJhNDg1NDc2MzA1NjZkNzI0NjExODZkN2ZjZWJlOGRkMjk2YmM1OGY=",
   "moment": 1622322672915,
   "teamId": "427f447600c7856fa9d25600ba48547630566d72461186d7fcebe8dd296bc58f"
+ },
+ {
+  "challengeId": "dots_exposed",
+  "flag": "+KGN2Ht/3AI0iDvGmCtAT+c5MW6DG+bjYr+m3Xwc+ECrRPPgGOtzvEF9biZBinLxckovk9bkZPyOWu06iXexAjAzMWNmZDcyYTg1NTAzMDlkNGZmMWM1MjA1MWJkYjU4MzQ5YTI1YTdiYmUzN2I0YjcwMGIzZTk2ODQ2M2Y1NmU=",
+  "moment": 1622322823950,
+  "teamId": "031cfd72a8550309d4ff1c52051bdb58349a25a7bbe37b4b700b3e968463f56e"
+ },
+ {
+  "challengeId": "baby_write_only_password_manag",
+  "flag": "UmHlTCiNpTskGx3G0MejI773VpMs+pidZIRHQYnz/TEp/YJzLUkZ/eWxxF5xertiD5PhPKBpbBMR5IDIvB0UC2YyYTNlNGJjYjk2MDNiNWYxZTBhODczNDhiM2IwYTgxODYwNzBmNDM2ZjU0YTJlNzI0MjA3MWU3OTI0ZjU1ZTg=",
+  "moment": 1622323087711,
+  "teamId": "f2a3e4bcb9603b5f1e0a87348b3b0a8186070f436f54a2e7242071e7924f55e8"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "lTNwAvR+bDco8XAVAyVUON3e+vO42w1NyS1r83OS2UEZsCAfGU5ZcQyrPJTOS0YH73qEO1Xme4RIW3lywuYFDjZjNTdjNmJiYThmMzg5N2U1MTcwNGQ0YmQ5OTcxZjI0ZTMyYmMzYTU1MWQ5NDU0MmUyYjNhNmJjYTFlN2M3ZTA=",
+  "moment": 1622323177820,
+  "teamId": "6c57c6bba8f3897e51704d4bd9971f24e32bc3a551d94542e2b3a6bca1e7c7e0"
+ },
+ {
+  "challengeId": "wspr_decoy",
+  "flag": "0xntXg9F//EzwzGlqBRyi0e+JPJhTJvy844g85Y8j8vZkVGrHx9TtrMT6rx9me0NPjZZ5CKk+DOOw1yuE2+4CTAzMWNmZDcyYTg1NTAzMDlkNGZmMWM1MjA1MWJkYjU4MzQ5YTI1YTdiYmUzN2I0YjcwMGIzZTk2ODQ2M2Y1NmU=",
+  "moment": 1622323295521,
+  "teamId": "031cfd72a8550309d4ff1c52051bdb58349a25a7bbe37b4b700b3e968463f56e"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "jqoEEgRpcRl4wqpbb7Qdcq9FXPb2azgo4Rm+14n/QU4tMIckANMCzwO1m9CwO4KHswdeITm732lcAZkIMwpSBGNkYjkyMmQ2ZDI2NmNiMWMyNTYzMmY5NzJkODc4NWY1ODVjZWM4MmU2YzdkNTJkMWRlZDlhOGE3MGE2MDBhNWY=",
+  "moment": 1622323301774,
+  "teamId": "cdb922d6d266cb1c25632f972d8785f585cec82e6c7d52d1ded9a8a70a600a5f"
  }
 ]
