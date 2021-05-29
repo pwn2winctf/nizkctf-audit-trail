@@ -3,7 +3,7 @@
   {
    "lastAccept": 1622296595973,
    "pos": 1,
-   "score": 4894,
+   "score": 4887,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -34,7 +34,7 @@
      "time": 1622220927552
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622233462581
     },
     "oh_anna_julia": {
@@ -155,7 +155,7 @@
   {
    "lastAccept": 1622284824648,
    "pos": 4,
-   "score": 2827,
+   "score": 2820,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -178,7 +178,7 @@
      "time": 1622227927715
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622266276382
     },
     "oh_anna_julia": {
@@ -279,7 +279,7 @@
   {
    "lastAccept": 1622296099476,
    "pos": 7,
-   "score": 1612,
+   "score": 1605,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -294,7 +294,7 @@
      "time": 1622228597710
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622296099476
     },
     "oh_anna_julia": {
@@ -311,7 +311,7 @@
   {
    "lastAccept": 1622290209685,
    "pos": 8,
-   "score": 1532,
+   "score": 1525,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -326,7 +326,7 @@
      "time": 1622221376490
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622290209685
     },
     "oh_anna_julia": {
@@ -343,7 +343,7 @@
   {
    "lastAccept": 1622291481941,
    "pos": 9,
-   "score": 1486,
+   "score": 1479,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -354,7 +354,7 @@
      "time": 1622275172067
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622241058199
     },
     "oh_anna_julia": {
@@ -429,9 +429,37 @@
    "team": "ARESx"
   },
   {
-   "lastAccept": 1622297511783,
+   "lastAccept": 1622298896921,
    "pos": 12,
-   "score": 1329,
+   "score": 1338,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622219890215
+    },
+    "baby_write_only_password_manag": {
+     "points": 363,
+     "time": 1622283169083
+    },
+    "illusion": {
+     "points": 193,
+     "time": 1622254986159
+    },
+    "lost_exponent": {
+     "points": 326,
+     "time": 1622298896921
+    },
+    "the_return_of_too_slow": {
+     "points": 406,
+     "time": 1622272042290
+    }
+   },
+   "team": "Never Stop Exploiting"
+  },
+  {
+   "lastAccept": 1622297511783,
+   "pos": 13,
+   "score": 1322,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -446,7 +474,7 @@
      "time": 1622297511783
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622239131885
     },
     "oh_anna_julia": {
@@ -455,34 +483,6 @@
     }
    },
    "team": "Dragon Sector"
-  },
-  {
-   "lastAccept": 1622278190294,
-   "pos": 13,
-   "score": 1099,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622220147311
-    },
-    "c_mon_see_my_vulns": {
-     "points": 260,
-     "time": 1622278190294
-    },
-    "illusion": {
-     "points": 193,
-     "time": 1622256625333
-    },
-    "lost_exponent": {
-     "points": 333,
-     "time": 1622262026986
-    },
-    "oh_anna_julia": {
-     "points": 263,
-     "time": 1622275088737
-    }
-   },
-   "team": "1t'5_n0t_fla9"
   },
   {
    "lastAccept": 1622292691896,
@@ -505,8 +505,36 @@
    "team": "r00timentary"
   },
   {
-   "lastAccept": 1622296348348,
+   "lastAccept": 1622278190294,
    "pos": 15,
+   "score": 1092,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622220147311
+    },
+    "c_mon_see_my_vulns": {
+     "points": 260,
+     "time": 1622278190294
+    },
+    "illusion": {
+     "points": 193,
+     "time": 1622256625333
+    },
+    "lost_exponent": {
+     "points": 326,
+     "time": 1622262026986
+    },
+    "oh_anna_julia": {
+     "points": 263,
+     "time": 1622275088737
+    }
+   },
+   "team": "1t'5_n0t_fla9"
+  },
+  {
+   "lastAccept": 1622296348348,
+   "pos": 16,
    "score": 1086,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -533,33 +561,9 @@
    "team": "Balsn"
   },
   {
-   "lastAccept": 1622283169083,
-   "pos": 16,
-   "score": 1012,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622219890215
-    },
-    "baby_write_only_password_manag": {
-     "points": 363,
-     "time": 1622283169083
-    },
-    "illusion": {
-     "points": 193,
-     "time": 1622254986159
-    },
-    "the_return_of_too_slow": {
-     "points": 406,
-     "time": 1622272042290
-    }
-   },
-   "team": "Never Stop Exploiting"
-  },
-  {
    "lastAccept": 1622288056160,
    "pos": 17,
-   "score": 906,
+   "score": 899,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -570,7 +574,7 @@
      "time": 1622265875801
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622288056160
     },
     "oh_anna_julia": {
@@ -583,7 +587,7 @@
   {
    "lastAccept": 1622293593396,
    "pos": 18,
-   "score": 906,
+   "score": 899,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -594,7 +598,7 @@
      "time": 1622293593396
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622238165578
     },
     "oh_anna_julia": {
@@ -607,7 +611,7 @@
   {
    "lastAccept": 1622287808933,
    "pos": 19,
-   "score": 839,
+   "score": 832,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -618,7 +622,7 @@
      "time": 1622249776923
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622287808933
     },
     "oh_anna_julia": {
@@ -655,14 +659,14 @@
   {
    "lastAccept": 1622295637626,
    "pos": 21,
-   "score": 789,
+   "score": 782,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622237235871
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622295637626
     },
     "the_return_of_too_slow": {
@@ -1187,14 +1191,14 @@
   {
    "lastAccept": 1622249627066,
    "pos": 49,
-   "score": 383,
+   "score": 376,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622220077068
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622249627066
     }
    },
@@ -1203,14 +1207,14 @@
   {
    "lastAccept": 1622252208698,
    "pos": 50,
-   "score": 383,
+   "score": 376,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622220595728
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622252208698
     }
    },
@@ -1219,14 +1223,14 @@
   {
    "lastAccept": 1622288337858,
    "pos": 51,
-   "score": 383,
+   "score": 376,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622224993635
     },
     "lost_exponent": {
-     "points": 333,
+     "points": 326,
      "time": 1622288337858
     }
    },
