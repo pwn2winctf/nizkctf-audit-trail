@@ -4348,5 +4348,23 @@
   "flag": "buvo3MljsQkKzRBmUxeFdtpg46HA6TqqvzFm/kZaM6J7OPnvfxgoycZndEN/G01PkujfaIZfMX+zEHx4GyIqDDkwMGMyYWU1MDgzZDVjMmVmYzBjNjExNzM5MDEzNzcxMDM0NmIwZGJjMjFhMTU0YzJhM2VhZWRjNjkxOTJkZmU=",
   "moment": 1622282609413,
   "teamId": "900c2ae5083d5c2efc0c6117390137710346b0dbc21a154c2a3eaedc69192dfe"
+ },
+ {
+  "challengeId": "c_mon_see_my_vulns",
+  "flag": "KiSl6InnHh44jicpu+KYwFLFlcMQEY23gLRjT5mYScCBIzHHiy8otA5blzGCImH3K0vADrS0ADXzyanYOArpBzQwY2VhMjVlYjBiZGQwZmVlN2FiZWIyMWI5ZmYxOWZmODE2NWM2M2IyMDdmMTA5NGFlNWU0N2ZiYTFkYzA3ZWE=",
+  "moment": 1622282912748,
+  "teamId": "40cea25eb0bdd0fee7abeb21b9ff19ff8165c63b207f1094ae5e47fba1dc07ea"
+ },
+ {
+  "challengeId": "baby_write_only_password_manag",
+  "flag": "nuGFgiPNeNY2pSeJbHHN9xFIiDGX/zgw4K967dpAf8KUG5l9+AUy3xcOBDb0qW1mfj05m1KquCXy6mTfCgAqCGZjZGZhODU4M2QxYjM3ZTYyNjAxMjdjZTY0MjVmZjZjMjRhOTQ1NGI5Njg5OGI2MzZiYWFmMjYwNzVjOTY1MmI=",
+  "moment": 1622283169083,
+  "teamId": "fcdfa8583d1b37e6260127ce6425ff6c24a9454b96898b636baaf26075c9652b"
+ },
+ {
+  "challengeId": "c_mon_see_my_vulns",
+  "flag": "0LaWampTYDbU5IxaNok6eVR1bavLWj94/2i8BEC8c3HorkEKmbneM/AWin1Q79vOJ1XWn07q3977GuJJtPfQCjgxM2MzZGJiMTQzODliZWRjNGRhN2Y0ODI2ZDJjNGFiZjY1MzhhYTQyOTRjZmNlYjU5NDZiMzcxZjlhYmFmYzc=",
+  "moment": 1622283212866,
+  "teamId": "813c3dbb14389bedc4da7f4826d2c4abf6538aa4294cfceb5946b371f9abafc7"
  }
 ]
