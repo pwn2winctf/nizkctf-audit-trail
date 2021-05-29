@@ -4932,6 +4932,16 @@
  },
  {
   "countries": [
+   "dz"
+  ],
+  "id": "8d334249fcf485ccc4fd0788fb5ec392bf59580275901b58939556530d8b0390",
+  "members": [
+   "YYBqK2yFXNgGeAk5E27QWEmE1sv1"
+  ],
+  "name": "NAZCA"
+ },
+ {
+  "countries": [
    "fr"
   ],
   "id": "c42d3c6483caac4dd9b183dccf7e3222cba73a460880683b8860c7c168edea04",
@@ -9055,6 +9065,14 @@
    "5hILDRQk4nV4T0O7uGof1BnQLU72"
   ],
   "name": "TNPSec"
+ },
+ {
+  "countries": [],
+  "id": "3f59e5233df4af01054e94fad315e20e62212b0d8ff748b0dbce1e84613e083d",
+  "members": [
+   "HpwfpBn84ThBD3aFrJW5RzEh6sY2"
+  ],
+  "name": "saruul"
  },
  {
   "countries": [
