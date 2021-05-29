@@ -8047,6 +8047,42 @@
     }
    },
    "team": "Computer_Addicts"
+  },
+  {
+   "lastAccept": 1622294613636,
+   "pos": 613,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622294613636
+    }
+   },
+   "team": "d4rkc0de"
+  },
+  {
+   "lastAccept": 1622294813016,
+   "pos": 614,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622294813016
+    }
+   },
+   "team": "dad"
+  },
+  {
+   "lastAccept": 1622294997847,
+   "pos": 615,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622294997847
+    }
+   },
+   "team": "CTF{Runn3rs}"
   }
  ],
  "tasks": [

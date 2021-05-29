@@ -2156,6 +2156,16 @@
  },
  {
   "countries": [
+   "ca"
+  ],
+  "id": "e87bb80fb88eb865d7f6a674d44f9b12feaaea5cc65eef17614277b97d6d0abb",
+  "members": [
+   "ho50KxCBkKOkUkbEVhVrtNnUgtm1"
+  ],
+  "name": "Noor"
+ },
+ {
+  "countries": [
    "in"
   ],
   "id": "85ff30890bc96b8f53d4f733e3cc0e012b16121eb2efaa5a1b0a8f31c6be8b8e",
@@ -2833,6 +2843,16 @@
    "qkwHK4cGfiVg9UAdqd0DiHo9TH32"
   ],
   "name": "Souther"
+ },
+ {
+  "countries": [
+   "no"
+  ],
+  "id": "25ce9854f8312a4d632c8fc090035715a735aa730e34e2ece6bf00e55e582191",
+  "members": [
+   "wGg9mOeA37TErbLbFqqWsHyL2cL2"
+  ],
+  "name": "HITG"
  },
  {
   "countries": [
