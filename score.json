@@ -1,9 +1,57 @@
 {
  "standings": [
   {
-   "lastAccept": 1622257544311,
+   "lastAccept": 1622278954896,
    "pos": 1,
-   "score": 3231,
+   "score": 3334,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622220678239
+    },
+    "c_mon_see_my_vulns": {
+     "points": 314,
+     "time": 1622264983655
+    },
+    "cladorhizidae": {
+     "points": 420,
+     "time": 1622274849744
+    },
+    "dots_exposed": {
+     "points": 355,
+     "time": 1622239547285
+    },
+    "hackus": {
+     "points": 453,
+     "time": 1622237049619
+    },
+    "illusion": {
+     "points": 225,
+     "time": 1622220927552
+    },
+    "lost_exponent": {
+     "points": 383,
+     "time": 1622233462581
+    },
+    "oh_anna_julia": {
+     "points": 298,
+     "time": 1622240817746
+    },
+    "ruthless_monster": {
+     "points": 453,
+     "time": 1622278954896
+    },
+    "small_talk": {
+     "points": 383,
+     "time": 1622257701741
+    }
+   },
+   "team": "uuunderflow"
+  },
+  {
+   "lastAccept": 1622257544311,
+   "pos": 2,
+   "score": 3216,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -18,7 +66,7 @@
      "time": 1622230305226
     },
     "cladorhizidae": {
-     "points": 435,
+     "points": 420,
      "time": 1622236887725
     },
     "illusion": {
@@ -43,50 +91,6 @@
     }
    },
    "team": "p4"
-  },
-  {
-   "lastAccept": 1622274849744,
-   "pos": 2,
-   "score": 2896,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622220678239
-    },
-    "c_mon_see_my_vulns": {
-     "points": 314,
-     "time": 1622264983655
-    },
-    "cladorhizidae": {
-     "points": 435,
-     "time": 1622274849744
-    },
-    "dots_exposed": {
-     "points": 355,
-     "time": 1622239547285
-    },
-    "hackus": {
-     "points": 453,
-     "time": 1622237049619
-    },
-    "illusion": {
-     "points": 225,
-     "time": 1622220927552
-    },
-    "lost_exponent": {
-     "points": 383,
-     "time": 1622233462581
-    },
-    "oh_anna_julia": {
-     "points": 298,
-     "time": 1622240817746
-    },
-    "small_talk": {
-     "points": 383,
-     "time": 1622257701741
-    }
-   },
-   "team": "uuunderflow"
   },
   {
    "lastAccept": 1622272147013,
@@ -129,45 +133,9 @@
    "team": "Super Guesser"
   },
   {
-   "lastAccept": 1622276475910,
+   "lastAccept": 1622278881557,
    "pos": 4,
-   "score": 2296,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622220075151
-    },
-    "baby_write_only_password_manag": {
-     "points": 394,
-     "time": 1622229053068
-    },
-    "cladorhizidae": {
-     "points": 435,
-     "time": 1622259624918
-    },
-    "illusion": {
-     "points": 225,
-     "time": 1622243568060
-    },
-    "oh_anna_julia": {
-     "points": 298,
-     "time": 1622244707804
-    },
-    "ruthless_monster": {
-     "points": 474,
-     "time": 1622276475910
-    },
-    "t00_rare": {
-     "points": 420,
-     "time": 1622238019958
-    }
-   },
-   "team": "Organizers"
-  },
-  {
-   "lastAccept": 1622242516356,
-   "pos": 5,
-   "score": 1850,
+   "score": 2270,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -176,6 +144,10 @@
     "a2s": {
      "points": 474,
      "time": 1622227482403
+    },
+    "cladorhizidae": {
+     "points": 420,
+     "time": 1622278881557
     },
     "illusion": {
      "points": 225,
@@ -195,6 +167,42 @@
     }
    },
    "team": "More Smoked Leet Chicken"
+  },
+  {
+   "lastAccept": 1622276475910,
+   "pos": 5,
+   "score": 2260,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622220075151
+    },
+    "baby_write_only_password_manag": {
+     "points": 394,
+     "time": 1622229053068
+    },
+    "cladorhizidae": {
+     "points": 420,
+     "time": 1622259624918
+    },
+    "illusion": {
+     "points": 225,
+     "time": 1622243568060
+    },
+    "oh_anna_julia": {
+     "points": 298,
+     "time": 1622244707804
+    },
+    "ruthless_monster": {
+     "points": 453,
+     "time": 1622276475910
+    },
+    "t00_rare": {
+     "points": 420,
+     "time": 1622238019958
+    }
+   },
+   "team": "Organizers"
   },
   {
    "lastAccept": 1622240515200,
@@ -227,14 +235,14 @@
   {
    "lastAccept": 1622275172067,
    "pos": 7,
-   "score": 1288,
+   "score": 1273,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622219823713
     },
     "cladorhizidae": {
-     "points": 435,
+     "points": 420,
      "time": 1622275172067
     },
     "lost_exponent": {
@@ -307,7 +315,7 @@
   {
    "lastAccept": 1622267271697,
    "pos": 10,
-   "score": 1047,
+   "score": 1026,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -322,7 +330,7 @@
      "time": 1622253561324
     },
     "ruthless_monster": {
-     "points": 474,
+     "points": 453,
      "time": 1622267271697
     }
    },
@@ -7351,6 +7359,18 @@
     }
    },
    "team": "SudoWoodoDoasWoodo"
+  },
+  {
+   "lastAccept": 1622278785554,
+   "pos": 571,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622278785554
+    }
+   },
+   "team": "NicDumZ"
   }
  ],
  "tasks": [
