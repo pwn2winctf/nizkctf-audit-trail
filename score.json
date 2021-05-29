@@ -5807,6 +5807,30 @@
     }
    },
    "team": "TeamC8"
+  },
+  {
+   "lastAccept": 1622251152919,
+   "pos": 461,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622251152919
+    }
+   },
+   "team": "Egg Heads"
+  },
+  {
+   "lastAccept": 1622251427965,
+   "pos": 462,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622251427965
+    }
+   },
+   "team": "3time"
   }
  ],
  "tasks": [
