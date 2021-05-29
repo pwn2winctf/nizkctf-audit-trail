@@ -1593,8 +1593,24 @@
    "team": "NicDumZ"
   },
   {
-   "lastAccept": 1622261008765,
+   "lastAccept": 1622291335767,
    "pos": 79,
+   "score": 249,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622291335767
+    },
+    "illusion": {
+     "points": 199,
+     "time": 1622279226980
+    }
+   },
+   "team": "1gy"
+  },
+  {
+   "lastAccept": 1622261008765,
+   "pos": 80,
    "score": 199,
    "taskStats": {
     "illusion": {
@@ -1603,18 +1619,6 @@
     }
    },
    "team": "EffectRenan"
-  },
-  {
-   "lastAccept": 1622279226980,
-   "pos": 80,
-   "score": 199,
-   "taskStats": {
-    "illusion": {
-     "points": 199,
-     "time": 1622279226980
-    }
-   },
-   "team": "1gy"
   },
   {
    "lastAccept": 1622284220891,
@@ -7903,6 +7907,30 @@
     }
    },
    "team": "NotHotdog"
+  },
+  {
+   "lastAccept": 1622290859756,
+   "pos": 605,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622290859756
+    }
+   },
+   "team": "Lattice"
+  },
+  {
+   "lastAccept": 1622291256113,
+   "pos": 606,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622291256113
+    }
+   },
+   "team": "Kafang"
   }
  ],
  "tasks": [
