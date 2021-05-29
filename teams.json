@@ -8635,6 +8635,16 @@
  },
  {
   "countries": [
+   "us"
+  ],
+  "id": "7cfcd0cc4e1f1f100d3750f0dfb87f4724e4791b49d1435f4924d9985904c2af",
+  "members": [
+   "SzmzMTaPQ8YqDB8oMTvYJTdN3Zy1"
+  ],
+  "name": "extr0py"
+ },
+ {
+  "countries": [
    "si"
   ],
   "id": "79621e67618ff45e8b42c5632e0fca703330408189ff6bd5c02b225d53116c6f",
@@ -9665,5 +9675,15 @@
    "QRmBMXIQTVOG57aRQvIdgUOuaFb2"
   ],
   "name": "Rabbi Town"
+ },
+ {
+  "countries": [
+   "fr"
+  ],
+  "id": "f6cf1d46287d09446216b4b5f2976082c12dc7155797dfc2155e3a1642065021",
+  "members": [
+   "YsyLpQF51lfE3tdgeDacTyMJkpZ2"
+  ],
+  "name": "SelSec"
  }
 ]
