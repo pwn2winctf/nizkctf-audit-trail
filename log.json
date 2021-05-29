@@ -4456,5 +4456,35 @@
   "flag": "EwJfk9Mp6PjvqwR0hvOFOCSmZNGuOhKCjAys69ECMFc/hp+qeTwEus+VaJM2ma7dWnMJPS80Ww+wPWH0dmdPDDg5YWY0YzEyYmI5MzgzMjhkMDM2YWE5NGI2NWYzZmEyYzRiZGUyZjg4ZmY3YTgyNWFmZDNmNmY0NzdlYjZhY2Q=",
   "moment": 1622286359489,
   "teamId": "89af4c12bb938328d036aa94b65f3fa2c4bde2f88ff7a825afd3f6f477eb6acd"
+ },
+ {
+  "challengeId": "dots_exposed",
+  "flag": "Zz+WBikKmoAaUrdgzJ06RBP0LzpxpwTfw56JW5iHetGEza9FvnV4OuatT6+ywDvKgPvcT27LCmllT9W/0QO4BzM0MmRkODkxZjZmMGUzYzllOWQxNmRiZGZmZTU5OGUzZTllM2UxZTI2ODFjNjVjMGZiMjdjYTYyMTNlMmM5ZTU=",
+  "moment": 1622286819449,
+  "teamId": "342dd891f6f0e3c9e9d16dbdffe598e3e9e3e1e2681c65c0fb27ca6213e2c9e5"
+ },
+ {
+  "challengeId": "illusion",
+  "flag": "RYkKES0cItt+bQ7u/LBfVPTFlv9g4XLRHB1gbD+v38DYQoBG1oZVsgBUauN+CIG0vWVqk6GozjXkVbhcFRp+DDQ1OTNjNGRiM2MwOWEzOGNmYjRlNzNlOTc1MWM3ZmJmMGE1MmQzNDMzNWNhNzA4MjI4ODY0ZTI3ZjlhMmNkNmM=",
+  "moment": 1622286874465,
+  "teamId": "4593c4db3c09a38cfb4e73e9751c7fbf0a52d34335ca708228864e27f9a2cd6c"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "eJGQ0q8e99QBqXxtucKj/vB8uWWkUb2speN5nAMQYFuhMqGwTOZDSh3loiXBqcDJd5A1flpXSyUolu3uGhYaAWIzNjFhODkzZDBiNDE2ZmY0YThjMWFiN2Q2MjgxZDIzZTczMDg4OGFjYWU3NDc1NWNiYjc4NDAyZmU3ODAwZWY=",
+  "moment": 1622286983428,
+  "teamId": "b361a893d0b416ff4a8c1ab7d6281d23e730888acae74755cbb78402fe7800ef"
+ },
+ {
+  "challengeId": "dots_exposed",
+  "flag": "n63YTSC34bvBwDvX3IhmDjJij7B+fB7EOpcRs6selURXMppvTezLj9snyNLxIK6tWJMIQERAO4PkZw96LohnBzQ0ZGNkNDhiZDFjNmJhMzZjNmNlZTk1MmZhM2Y2ZGZjZGNkNDlhZDFmNmNkZDBiNDJmNDRiNjYxNDI3YTg4Yjg=",
+  "moment": 1622287002342,
+  "teamId": "44dcd48bd1c6ba36c6cee952fa3f6dfcdcd49ad1f6cdd0b42f44b661427a88b8"
+ },
+ {
+  "challengeId": "botnet_the_final_bypass",
+  "flag": "Z6qK+sqT5fDQaG9bK9zQcMboBsIiqC/1EqQ0qU6NyySwTYSVEfKhC/CaUw+ZpcV6AANpwCJ1d8baD3RduBT/A2E5MTNkMDhlZmJiNmEyYzM0NTNmZmNjNGRmODkxNzliMDJhYTAyNWE3NDE2YmEyMTYzODViMWUzNjQzYWUxOTg=",
+  "moment": 1622287077285,
+  "teamId": "a913d08efbb6a2c3453ffcc4df89179b02aa025a7416ba216385b1e3643ae198"
  }
 ]
