@@ -9275,6 +9275,18 @@
     }
    },
    "team": "boom"
+  },
+  {
+   "lastAccept": 1622330009401,
+   "pos": 682,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622330009401
+    }
+   },
+   "team": "UMDCSEC"
   }
  ],
  "tasks": [
