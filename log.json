@@ -5359,6 +5359,18 @@
  },
  {
   "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "JHw9NJIG/RR+YTP4310p1NM/SSfM5VXSzkXKyAdMgmRTVV5sVPEFREILCw4ByWmajBcnuia8YV0KMT7ty5c8ATk3ZWYxNDNhNTFlMzcyMTRiMzU2OWMxZjA1OTAzNWE2ZGQ5NWZjMjlkODNiMWI3MGFiNmVlYWEyMDA5MGU0M2U=",
+  "moment": 1622320524179,
+  "teamId": "97ef143a51e37214b3569c1f059035a6dd95fc29d83b1b70ab6eeaa20090e43e"
+ },
+ {
+  "challengeId": "hackus",
+  "flag": "aVzPeiY1RhMp5FO27OqQ4uoEYTNaCgXkvlWTaH6XMRUl19zV8dNOgfO+EjRqa9yaedBEpr08VUCWk9heLv/bCDM0MmRkODkxZjZmMGUzYzllOWQxNmRiZGZmZTU5OGUzZTllM2UxZTI2ODFjNjVjMGZiMjdjYTYyMTNlMmM5ZTU=",
+  "moment": 1622320556076,
+  "teamId": "342dd891f6f0e3c9e9d16dbdffe598e3e9e3e1e2681c65c0fb27ca6213e2c9e5"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
   "flag": "5hppcuDYUOfLedx4R/5NUzuFDe1NkDyBPcCoWB1NHuJU4QZ74OCWq68NQI7znZvUW6cTz94rbK526/Sh2RqfB2NkMDM0YTUxZWRmMWQxMjM2NDAyMmZjMDBkZDE5ZjM0NzllNmM2NjJhODNlZTZiYjRlNmQwZjQ5YmViMjkyMTE=",
   "moment": 1622313873071,
   "teamId": "cd034a51edf1d12364022fc00dd19f3479e6c662a83ee6bb4e6d0f49beb29211"
@@ -5506,5 +5518,23 @@
   "flag": "uwYeFEShrD2PWssa0PlwXr+TEGhvXwD7Ztq5Tiy+LaqfTUR49asI0BDTv2jeyOEccVb13iBSlpzrJAeXiPZjCzJkNGQ1YjBhMzQ3MTRhMGQyNjY2M2E1Y2NmOGI4NzUyYjYyM2MyODE3NDE4YmVlNzc4MWU3ZDE2MGM2ZGI5ZDM=",
   "moment": 1622320257065,
   "teamId": "2d4d5b0a34714a0d26663a5ccf8b8752b623c2817418bee7781e7d160c6db9d3"
+ },
+ {
+  "challengeId": "illusion",
+  "flag": "BSG8sgj4zbBH5NFow8/wlLzn+3nuoPJbXxaIXF1WvHQa92ixVZqvmUNrqnL3ctEpueQVuH3kwQSzruGrbC+3CjQ5NTc1Y2I0NmQ3ODUzNTc2YTRkYzJmMTRkM2Y2MmU3NTE5YTg1OWIwMDk1OTkxZmUxZWEzMDllMDExYmUxYWY=",
+  "moment": 1622320637270,
+  "teamId": "49575cb46d7853576a4dc2f14d3f62e7519a859b0095991fe1ea309e011be1af"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "XTaoHeDCdCe7Eefia/X0G0C6czZvwhB1Is42f/HwkNawJIhSQewcsWLVmf0Xiu8L+sdcNLhKR86GOgVj+RhTCmY3NTEwMDIyMjY2Njc5NjE2ZjMyNThmOWExMWI4NDBlZDEwMDBhMTVkZDBiZTE0OTczNDBiYTQ1YjAwOWQ2NDU=",
+  "moment": 1622320825092,
+  "teamId": "f7510022266679616f3258f9a11b840ed1000a15dd0be1497340ba45b009d645"
+ },
+ {
+  "challengeId": "c_mon_see_my_vulns",
+  "flag": "/MV5fURGctrR8lXtkDNXWmuVXOFcplvx26bEUGVYVtnL6xzcARv7OTw6EAL3C3JSXBw0WdKWs1x8AikW4n1GAzYyMmRiZGMwY2ZiMWY2NjAxZDZiOGRmYjQ0ZjZmMjkwMGQxN2E3Mzc4NzAzMGM1MmFmNmVjMGJkNzE4Y2Q5MzQ=",
+  "moment": 1622320884475,
+  "teamId": "622dbdc0cfb1f6601d6b8dfb44f6f2900d17a73787030c52af6ec0bd718cd934"
  }
 ]
