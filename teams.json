@@ -2972,6 +2972,16 @@
  },
  {
   "countries": [
+   "dk"
+  ],
+  "id": "f6412bc7777a09a8b79477d1e8781a3827865589ba91c6bf0547670fd640b146",
+  "members": [
+   "yVWrznwD7uQe3RwVwY1qKf6Nl5W2"
+  ],
+  "name": "nickersej"
+ },
+ {
+  "countries": [
    "ru"
   ],
   "id": "94d4359a456a727ed3e502f30f923497e310cb59be5508446315fed95543b579",
@@ -4893,6 +4903,14 @@
    "txmBZ5syF3dG6gRzpWd3zojNSc12"
   ],
   "name": "tomcat"
+ },
+ {
+  "countries": [],
+  "id": "36a74133c5c8a76202f175ea334440da52cb5db472cccee1371f785a4de472d0",
+  "members": [
+   "m92GggTgJzUab1GURC1B0PcqJCU2"
+  ],
+  "name": "h4ck3r1st"
  },
  {
   "countries": [
