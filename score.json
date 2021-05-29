@@ -3,7 +3,7 @@
   {
    "lastAccept": 1622309657969,
    "pos": 1,
-   "score": 5098,
+   "score": 5072,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -46,7 +46,7 @@
      "time": 1622296595973
     },
     "pe_analysis": {
-     "points": 500,
+     "points": 474,
      "time": 1622295350332
     },
     "ruthless_monster": {
@@ -481,8 +481,32 @@
    "team": "Kalmarunionen"
   },
   {
-   "lastAccept": 1622288131263,
+   "lastAccept": 1622311919085,
    "pos": 12,
+   "score": 1515,
+   "taskStats": {
+    "dots_exposed": {
+     "points": 303,
+     "time": 1622258123993
+    },
+    "pe_analysis": {
+     "points": 474,
+     "time": 1622311919085
+    },
+    "small_talk": {
+     "points": 355,
+     "time": 1622251650905
+    },
+    "the_return_of_too_slow": {
+     "points": 383,
+     "time": 1622292691896
+    }
+   },
+   "team": "r00timentary"
+  },
+  {
+   "lastAccept": 1622288131263,
+   "pos": 13,
    "score": 1432,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -510,7 +534,7 @@
   },
   {
    "lastAccept": 1622282369838,
-   "pos": 13,
+   "pos": 14,
    "score": 1389,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -542,7 +566,7 @@
   },
   {
    "lastAccept": 1622297511783,
-   "pos": 14,
+   "pos": 15,
    "score": 1266,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -570,7 +594,7 @@
   },
   {
    "lastAccept": 1622308636547,
-   "pos": 15,
+   "pos": 16,
    "score": 1098,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -595,26 +619,6 @@
     }
    },
    "team": "httpizza"
-  },
-  {
-   "lastAccept": 1622292691896,
-   "pos": 16,
-   "score": 1041,
-   "taskStats": {
-    "dots_exposed": {
-     "points": 303,
-     "time": 1622258123993
-    },
-    "small_talk": {
-     "points": 355,
-     "time": 1622251650905
-    },
-    "the_return_of_too_slow": {
-     "points": 383,
-     "time": 1622292691896
-    }
-   },
-   "team": "r00timentary"
   },
   {
    "lastAccept": 1622296348348,
@@ -8799,6 +8803,18 @@
     }
    },
    "team": "rolamento12"
+  },
+  {
+   "lastAccept": 1622311672991,
+   "pos": 661,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622311672991
+    }
+   },
+   "team": "I'm soloq"
   }
  ],
  "tasks": [
