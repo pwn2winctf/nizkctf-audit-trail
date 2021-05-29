@@ -6719,6 +6719,30 @@
     }
    },
    "team": "Zense"
+  },
+  {
+   "lastAccept": 1622263184195,
+   "pos": 528,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622263184195
+    }
+   },
+   "team": "snickerdoodle"
+  },
+  {
+   "lastAccept": 1622263432431,
+   "pos": 529,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622263432431
+    }
+   },
+   "team": "GingerUprising"
   }
  ],
  "tasks": [
