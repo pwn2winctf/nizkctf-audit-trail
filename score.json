@@ -9307,6 +9307,18 @@
     }
    },
    "team": "PwsecTeam"
+  },
+  {
+   "lastAccept": 1622331773533,
+   "pos": 684,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622331773533
+    }
+   },
+   "team": "Hacking Help"
   }
  ],
  "tasks": [
