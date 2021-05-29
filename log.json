@@ -5388,6 +5388,12 @@
   "teamId": "2b79265daeabbb1b42ae1940a0811d420805ae05e453a88762d70911270a2141"
  },
  {
+  "challengeId": "c_mon_see_my_vulns",
+  "flag": "kwpObD7nlBNPSu9YZxhEjgLRd4z02cUNHq2L9hWFGGYD1YhHr2xuh8T85C83gs27ihzL1f3R/LYkPt4lasGvCDBmNTIxMGM5MDM3ODM2YmU3ZDZiNWEzZDI0MDM2MzJiNWM3MThlYWM1ZWNmOTRlNjQ3ZTBkZGQ2NjczNDI2YmM=",
+  "moment": 1622328595576,
+  "teamId": "0f5210c9037836be7d6b5a3d2403632b5c718eac5ecf94e647e0ddd6673426bc"
+ },
+ {
   "challengeId": "_rhiza_founded_on_the_human_be",
   "flag": "5hppcuDYUOfLedx4R/5NUzuFDe1NkDyBPcCoWB1NHuJU4QZ74OCWq68NQI7znZvUW6cTz94rbK526/Sh2RqfB2NkMDM0YTUxZWRmMWQxMjM2NDAyMmZjMDBkZDE5ZjM0NzllNmM2NjJhODNlZTZiYjRlNmQwZjQ5YmViMjkyMTE=",
   "moment": 1622313873071,
@@ -5716,5 +5722,23 @@
   "flag": "XFGAiuHAGasuaeiFW52bs2L6koAL49jjB4dpeE5dAaEk9ydGPyhD7LZVeoBF+yU46JhOmqBqrSzaRSV/xuDUAjNlZWM3OThmNWI2YmE1ZWQzYTNiYmM4YWY4MTc2YTA2YmQ5ZGIyNmQ1YWIxY2RmYzhiYzA2YjRjZmVjY2M4Nzk=",
   "moment": 1622328131864,
   "teamId": "3eec798f5b6ba5ed3a3bbc8af8176a06bd9db26d5ab1cdfc8bc06b4cfeccc879"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "l+AFz6HeDki7biaw7E84D5SVOFUNWinlQ8GyYdEF8GBDvkf/zy0U5pRLZUgI44KgyFyX4Ht76PmQhFUHN0hACDdiOTFhMzIxZmI3YmUzOWE4N2YyZGU2YjEzZTRhYWFlNDk4MWU0MWE5MmEyNGJjNGYwYjhlYWZmZWZiZDM1NzA=",
+  "moment": 1622328316581,
+  "teamId": "7b91a321fb7be39a87f2de6b13e4aaae4981e41a92a24bc4f0b8eaffefbd3570"
+ },
+ {
+  "challengeId": "oldschool_adventures_apple_ii",
+  "flag": "u4gSPhZj2mtMgSnIQpfNAqfm4UXAznnPfGbhfb1ZhPFTvGILmrd/YfvcNNNsDAqZQg6GB8Zr+vePsX5hekTvCTM0MmRkODkxZjZmMGUzYzllOWQxNmRiZGZmZTU5OGUzZTllM2UxZTI2ODFjNjVjMGZiMjdjYTYyMTNlMmM5ZTU=",
+  "moment": 1622328691192,
+  "teamId": "342dd891f6f0e3c9e9d16dbdffe598e3e9e3e1e2681c65c0fb27ca6213e2c9e5"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "M6ojj6LSpYE7EOHHSvfj0HpG8allMpIl2uDd24Iki+/v+5HVxXgiQN+0kY7wXIgECe9MuU0w9WfuiFbLb5BsDzgxZjUyMzM3ZWJiNGNiMTY2OWJiODAyYzcwODgwN2RkZTA1MTlkMTVjYjEwMmE2MzEzZDI2YWQ1Y2Q4MjE3MTM=",
+  "moment": 1622328896767,
+  "teamId": "81f52337ebb4cb1669bb802c708807dde0519d15cb102a6313d26ad5cd821713"
  }
 ]
