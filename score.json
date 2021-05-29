@@ -7263,6 +7263,30 @@
     }
    },
    "team": "saneM"
+  },
+  {
+   "lastAccept": 1622275782662,
+   "pos": 565,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622275782662
+    }
+   },
+   "team": "CSUI"
+  },
+  {
+   "lastAccept": 1622275907019,
+   "pos": 566,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622275907019
+    }
+   },
+   "team": "kgrzk"
   }
  ],
  "tasks": [
