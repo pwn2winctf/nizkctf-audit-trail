@@ -5370,6 +5370,18 @@
   "teamId": "342dd891f6f0e3c9e9d16dbdffe598e3e9e3e1e2681c65c0fb27ca6213e2c9e5"
  },
  {
+  "challengeId": "oldschool_adventures_apple_ii",
+  "flag": "DVixbN0jnyh/YLX/ldqMdq7ZAOlsOAtTHt+xhYpeGi7I/j7MKhv8RYrOHcs3qFsaRULhHW10XTfHJ70OZ6IoDWZjZGZhODU4M2QxYjM3ZTYyNjAxMjdjZTY0MjVmZjZjMjRhOTQ1NGI5Njg5OGI2MzZiYWFmMjYwNzVjOTY1MmI=",
+  "moment": 1622324987006,
+  "teamId": "fcdfa8583d1b37e6260127ce6425ff6c24a9454b96898b636baaf26075c9652b"
+ },
+ {
+  "challengeId": "the_return_of_too_slow",
+  "flag": "fAemeLs2oSAMPS/7B0wg+2v0/eVtNb9F3PTlVHV46C7/j+nkmFdCfmnDqhyj0CZ+V95/UhIdIliyzz00R8sPAGEyYzBjZWM4YmZiMzE1YTA2YmViN2M4MGU3NjRkNDNlNzQ3NmE4MGU0NzViNjkxZjhhM2JkODY0NTQ2ODlkMTc=",
+  "moment": 1622325071625,
+  "teamId": "a2c0cec8bfb315a06beb7c80e764d43e7476a80e475b691f8a3bd86454689d17"
+ },
+ {
   "challengeId": "_rhiza_founded_on_the_human_be",
   "flag": "5hppcuDYUOfLedx4R/5NUzuFDe1NkDyBPcCoWB1NHuJU4QZ74OCWq68NQI7znZvUW6cTz94rbK526/Sh2RqfB2NkMDM0YTUxZWRmMWQxMjM2NDAyMmZjMDBkZDE5ZjM0NzllNmM2NjJhODNlZTZiYjRlNmQwZjQ5YmViMjkyMTE=",
   "moment": 1622313873071,
@@ -5644,5 +5656,11 @@
   "flag": "xVTjBWjHvYxJL4wd2IGYYhRl6XbkbOHLCpLPKNuTsfkV62t20BnvPxjLxotA7TejuIzx9vRLwkWSZx8RmZ2GAGYzNGY4MjAwYzg1MThmMjU5ZWQ4OTFlMWFlMTMzYTZjYWMxMWI4OTBjNWQwMzMyMjJhNjRjOTM2MTFjNzQ5MDk=",
   "moment": 1622324579058,
   "teamId": "f34f8200c8518f259ed891e1ae133a6cac11b890c5d033222a64c93611c74909"
+ },
+ {
+  "challengeId": "oh_anna_julia",
+  "flag": "/R67aKUN/rS6e/Lno70MHJNMLeCIMHaaTopg9XU17swMn3hMFh0p1ZNhN0BhgxtCQhcMSnN05bii0t6uBA0xDGRmNjQyNzllNzhiOTViZWFlMGJiZDgwZTYwZTZkNzdkMDVmZjVjN2VjNDE2OGZkN2MyYzk0MmRkNWJlYTkwNDE=",
+  "moment": 1622324641578,
+  "teamId": "df64279e78b95beae0bbd80e60e6d77d05ff5c7ec4168fd7c2c942dd5bea9041"
  }
 ]
