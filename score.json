@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1622296595973,
+   "lastAccept": 1622309657969,
    "pos": 1,
-   "score": 4712,
+   "score": 5106,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -57,6 +57,10 @@
      "points": 363,
      "time": 1622257701741
     },
+    "t00_rare": {
+     "points": 394,
+     "time": 1622309657969
+    },
     "the_return_of_too_slow": {
      "points": 383,
      "time": 1622280379788
@@ -67,7 +71,7 @@
   {
    "lastAccept": 1622308975747,
    "pos": 2,
-   "score": 3402,
+   "score": 3390,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -98,7 +102,7 @@
      "time": 1622308975747
     },
     "t00_rare": {
-     "points": 406,
+     "points": 394,
      "time": 1622248923788
     },
     "the_return_of_too_slow": {
@@ -115,7 +119,7 @@
   {
    "lastAccept": 1622308519886,
    "pos": 3,
-   "score": 3124,
+   "score": 3112,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -154,7 +158,7 @@
      "time": 1622238875998
     },
     "t00_rare": {
-     "points": 406,
+     "points": 394,
      "time": 1622272147013
     }
    },
@@ -163,7 +167,7 @@
   {
    "lastAccept": 1622308991081,
    "pos": 4,
-   "score": 3124,
+   "score": 3112,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -202,7 +206,7 @@
      "time": 1622230371799
     },
     "t00_rare": {
-     "points": 406,
+     "points": 394,
      "time": 1622242516356
     }
    },
@@ -255,7 +259,7 @@
   {
    "lastAccept": 1622285162828,
    "pos": 6,
-   "score": 2351,
+   "score": 2339,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -286,7 +290,7 @@
      "time": 1622276475910
     },
     "t00_rare": {
-     "points": 406,
+     "points": 394,
      "time": 1622238019958
     }
    },
@@ -295,7 +299,7 @@
   {
    "lastAccept": 1622306374138,
    "pos": 7,
-   "score": 2330,
+   "score": 2318,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -326,7 +330,7 @@
      "time": 1622291481941
     },
     "t00_rare": {
-     "points": 406,
+     "points": 394,
      "time": 1622262718661
     }
    },
@@ -715,7 +719,7 @@
   {
    "lastAccept": 1622307049089,
    "pos": 21,
-   "score": 903,
+   "score": 891,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -730,7 +734,7 @@
      "time": 1622239721963
     },
     "t00_rare": {
-     "points": 406,
+     "points": 394,
      "time": 1622307049089
     }
    },
@@ -8739,6 +8743,30 @@
     }
    },
    "team": "saruul"
+  },
+  {
+   "lastAccept": 1622309149412,
+   "pos": 657,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622309149412
+    }
+   },
+   "team": "NAZCA"
+  },
+  {
+   "lastAccept": 1622309247398,
+   "pos": 658,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622309247398
+    }
+   },
+   "team": "GottaFindBubba"
   }
  ],
  "tasks": [
