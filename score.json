@@ -8523,6 +8523,42 @@
     }
    },
    "team": "mcmayhem"
+  },
+  {
+   "lastAccept": 1622305291199,
+   "pos": 645,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622305291199
+    }
+   },
+   "team": "tomcat"
+  },
+  {
+   "lastAccept": 1622305341864,
+   "pos": 646,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622305341864
+    }
+   },
+   "team": "UAC"
+  },
+  {
+   "lastAccept": 1622305397186,
+   "pos": 647,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622305397186
+    }
+   },
+   "team": "glutton"
   }
  ],
  "tasks": [
