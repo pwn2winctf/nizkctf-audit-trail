@@ -789,8 +789,24 @@
    "team": "Social Engineering Experts"
   },
   {
-   "lastAccept": 1622247272716,
+   "lastAccept": 1622250678196,
    "pos": 43,
+   "score": 321,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622250678196
+    },
+    "illusion": {
+     "points": 271,
+     "time": 1622248755151
+    }
+   },
+   "team": "byc_404"
+  },
+  {
+   "lastAccept": 1622247272716,
+   "pos": 44,
    "score": 271,
    "taskStats": {
     "illusion": {
@@ -799,18 +815,6 @@
     }
    },
    "team": "xof5566"
-  },
-  {
-   "lastAccept": 1622248755151,
-   "pos": 44,
-   "score": 271,
-   "taskStats": {
-    "illusion": {
-     "points": 271,
-     "time": 1622248755151
-    }
-   },
-   "team": "byc_404"
   },
   {
    "lastAccept": 1622219825445,
@@ -5767,6 +5771,42 @@
     }
    },
    "team": "onepwnman"
+  },
+  {
+   "lastAccept": 1622250438193,
+   "pos": 458,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622250438193
+    }
+   },
+   "team": "Catastrophe"
+  },
+  {
+   "lastAccept": 1622250626644,
+   "pos": 459,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622250626644
+    }
+   },
+   "team": "keleper"
+  },
+  {
+   "lastAccept": 1622250795456,
+   "pos": 460,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622250795456
+    }
+   },
+   "team": "TeamC8"
   }
  ],
  "tasks": [
