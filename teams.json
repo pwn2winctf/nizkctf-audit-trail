@@ -2108,6 +2108,26 @@
  },
  {
   "countries": [
+   "de"
+  ],
+  "id": "aed1bdb5c14a5d37dd2a7ecce3dcde68c08c26794ab0adcd8be618a6f74c1887",
+  "members": [
+   "6tKwAJDRAgcZyTccp2GD0OI430L2"
+  ],
+  "name": "KITCTF"
+ },
+ {
+  "countries": [
+   "us"
+  ],
+  "id": "a49115f28a4c55aa925b8afc2f3a6e30f82b15cdd26a7d5a93b6cc4f6ea1c56d",
+  "members": [
+   "wQPQvAMMbjgr3z2PwlOP5qcBxp63"
+  ],
+  "name": "UICTC UNIBI"
+ },
+ {
+  "countries": [
    "in"
   ],
   "id": "85ff30890bc96b8f53d4f733e3cc0e012b16121eb2efaa5a1b0a8f31c6be8b8e",
@@ -2735,6 +2755,16 @@
    "DUOitCme8baQ2AFY1TLG5c19aHd2"
   ],
   "name": "MrAbdallAh"
+ },
+ {
+  "countries": [
+   "kr"
+  ],
+  "id": "82b3c9e56c9e391e15eefe7160cca14fd273ecca469a8e7c5f85cb1a4407e866",
+  "members": [
+   "XwruNMcP6jZmsoeIR3TEpw9ohip2"
+  ],
+  "name": "f0r9urus"
  },
  {
   "countries": [
@@ -8451,6 +8481,16 @@
    "zwFDp1j2VKQpmnX7yYxxqniVcwN2"
   ],
   "name": "SecurityFirst"
+ },
+ {
+  "countries": [
+   "cz"
+  ],
+  "id": "efe421572366e5072032e63d5019373878176069168e75f6c393c47465a67c58",
+  "members": [
+   "kcY2Gn8nQ1RaQawwgDpLZ4rNqPW2"
+  ],
+  "name": "pheeck"
  },
  {
   "countries": [
