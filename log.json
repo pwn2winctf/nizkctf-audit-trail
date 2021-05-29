@@ -5383,6 +5383,12 @@
  },
  {
   "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "76Iq9+1GlJMw9ctR+WClowaCW4MwBMvIpwhGdL97jEfssci2EZ1PdiRdNDLCi3YUrOxDBp75JjOV+bcUSFSlDjJiNzkyNjVkYWVhYmJiMWI0MmFlMTk0MGEwODExZDQyMDgwNWFlMDVlNDUzYTg4NzYyZDcwOTExMjcwYTIxNDE=",
+  "moment": 1622327751973,
+  "teamId": "2b79265daeabbb1b42ae1940a0811d420805ae05e453a88762d70911270a2141"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
   "flag": "5hppcuDYUOfLedx4R/5NUzuFDe1NkDyBPcCoWB1NHuJU4QZ74OCWq68NQI7znZvUW6cTz94rbK526/Sh2RqfB2NkMDM0YTUxZWRmMWQxMjM2NDAyMmZjMDBkZDE5ZjM0NzllNmM2NjJhODNlZTZiYjRlNmQwZjQ5YmViMjkyMTE=",
   "moment": 1622313873071,
   "teamId": "cd034a51edf1d12364022fc00dd19f3479e6c662a83ee6bb4e6d0f49beb29211"
@@ -5686,5 +5692,29 @@
   "flag": "GL3RsuAr6a2Q5w96m24JJJHNy7ffSCpiiTN4khh0kr61ErlTyXRUcexIF6k9THV18Tkw9lI0KF0IKOj2NCzcADZiYWYzNGI1MTZmMzZkNWNkNDEyMmQ1ZDcyNmVhZmQ5ZjEzM2YwM2E2ZmU1ZjEwM2NkMjM1ZjA1OTRkM2E4MTI=",
   "moment": 1622327376930,
   "teamId": "6baf34b516f36d5cd4122d5d726eafd9f133f03a6fe5f103cd235f0594d3a812"
+ },
+ {
+  "challengeId": "kangurei",
+  "flag": "lPNbdtui0itPwOhS7oITtp6EaPkWy+99NYw+Pl2T+4Ef3uyNQgCXMyx2YBY4MjCkyhuKcPn62gdlK68HI+KDATE2NTI5NDdmMjE1MTc4M2Q0OWEwOTgzMGQ2NzgwNjcwYmVhY2E0NmJiMThiNTIxOTVhNjAyMGQxODJhZWU5ODA=",
+  "moment": 1622327700779,
+  "teamId": "1652947f2151783d49a09830d6780670beaca46bb18b52195a6020d182aee980"
+ },
+ {
+  "challengeId": "c_mon_see_my_vulns",
+  "flag": "dEpg6CQ10pI+emvKKnkwjJ8xMURw5Bvdf4/GfaXoEm/gnuiuSs2vBtIZGvxUW/1lWX8H9yjVN/FLONGJWRIaBzZiYWYzNGI1MTZmMzZkNWNkNDEyMmQ1ZDcyNmVhZmQ5ZjEzM2YwM2E2ZmU1ZjEwM2NkMjM1ZjA1OTRkM2E4MTI=",
+  "moment": 1622327728467,
+  "teamId": "6baf34b516f36d5cd4122d5d726eafd9f133f03a6fe5f103cd235f0594d3a812"
+ },
+ {
+  "challengeId": "oldschool_adventures_apple_ii",
+  "flag": "NUutKy6HYfQThB5rcTiB0Tf5v+A3W+zkM+qltEL+6VsjJ2Ppx3Cim8L2qLGGjgRZ1MmrYad7II9hmcj2ENDFCjQ0ZGNkNDhiZDFjNmJhMzZjNmNlZTk1MmZhM2Y2ZGZjZGNkNDlhZDFmNmNkZDBiNDJmNDRiNjYxNDI3YTg4Yjg=",
+  "moment": 1622328041712,
+  "teamId": "44dcd48bd1c6ba36c6cee952fa3f6dfcdcd49ad1f6cdd0b42f44b661427a88b8"
+ },
+ {
+  "challengeId": "dots_exposed",
+  "flag": "XFGAiuHAGasuaeiFW52bs2L6koAL49jjB4dpeE5dAaEk9ydGPyhD7LZVeoBF+yU46JhOmqBqrSzaRSV/xuDUAjNlZWM3OThmNWI2YmE1ZWQzYTNiYmM4YWY4MTc2YTA2YmQ5ZGIyNmQ1YWIxY2RmYzhiYzA2YjRjZmVjY2M4Nzk=",
+  "moment": 1622328131864,
+  "teamId": "3eec798f5b6ba5ed3a3bbc8af8176a06bd9db26d5ab1cdfc8bc06b4cfeccc879"
  }
 ]
