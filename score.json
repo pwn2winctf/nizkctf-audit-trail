@@ -6983,6 +6983,42 @@
     }
    },
    "team": "ikeario"
+  },
+  {
+   "lastAccept": 1622268175598,
+   "pos": 547,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622268175598
+    }
+   },
+   "team": "AntiBuddies"
+  },
+  {
+   "lastAccept": 1622268302441,
+   "pos": 548,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622268302441
+    }
+   },
+   "team": "OverKill"
+  },
+  {
+   "lastAccept": 1622268412974,
+   "pos": 549,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622268412974
+    }
+   },
+   "team": "ch3cke"
   }
  ],
  "tasks": [
