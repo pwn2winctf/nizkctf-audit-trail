@@ -6547,6 +6547,18 @@
     }
    },
    "team": "Manhattan"
+  },
+  {
+   "lastAccept": 1622260127521,
+   "pos": 515,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622260127521
+    }
+   },
+   "team": "justchecking"
   }
  ],
  "tasks": [
