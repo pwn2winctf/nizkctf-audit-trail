@@ -8843,6 +8843,30 @@
     }
    },
    "team": "KXTI_DOSHIK"
+  },
+  {
+   "lastAccept": 1622313227925,
+   "pos": 663,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622313227925
+    }
+   },
+   "team": "HellForge"
+  },
+  {
+   "lastAccept": 1622313325471,
+   "pos": 664,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622313325471
+    }
+   },
+   "team": "nguoilinhtrebiencuong"
   }
  ],
  "tasks": [
