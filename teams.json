@@ -4199,6 +4199,16 @@
  },
  {
   "countries": [
+   "kr"
+  ],
+  "id": "1b1d73c2a8b21a6a672315e04911a61ffdf1571b54ae6bf84a2fe8748f5046ec",
+  "members": [
+   "wcY1F2My6WZTLmokac5wYnJaRcI3"
+  ],
+  "name": "solo_team_"
+ },
+ {
+  "countries": [
    "gb"
   ],
   "id": "89932f8285bde9d693a0691a3400ba249f0d5c1357fe157dae3254112e489143",
@@ -8654,5 +8664,43 @@
    "bg9RayuYXYO6VTbvmpJcw9zd9Zw2"
   ],
   "name": "born2scan"
+ },
+ {
+  "countries": [
+   "kr"
+  ],
+  "id": "1373f564ce2480ced8c0635f66a4bc2070b9720f7a6c059bd5e588fa05c68ba7",
+  "members": [
+   "si0V6J4f4xXdNy6K47Datx8Gskf1"
+  ],
+  "name": "Re: Life in a CTF from zero"
+ },
+ {
+  "countries": [],
+  "id": "6b3c238ebcf1f3c07cf0e556faa82c6b8fe96840ff4b6b7e9962a2d855843a0b",
+  "members": [
+   "mrzTmf36Rhaqd0VDlZPihYeY6mE2"
+  ],
+  "name": "404"
+ },
+ {
+  "countries": [
+   "cn"
+  ],
+  "id": "5350627d1ecf7bf5abbc97600f9f3c0271ada6072c0f5ecb41d94314d43b25df",
+  "members": [
+   "661GVO54cmYgcMcM2Hl909V1H2c2"
+  ],
+  "name": "way2love"
+ },
+ {
+  "countries": [
+   "cn"
+  ],
+  "id": "075ac7b72c07b6ed58555813cd53dbc9948ba3c07e2598fae9b1c205ccd498bc",
+  "members": [
+   "4dDMz4iDhsgBMaHOoM6naSW4EQf2"
+  ],
+  "name": "NP-VV"
  }
 ]
