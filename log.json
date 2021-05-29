@@ -3388,5 +3388,41 @@
   "flag": "X7Oz9wMPpT0In9vsFb7ii+MolWMVvK2NADo/4jCW/ZO5Opq3ntkDCuKd+gz20PlLxb+eOTl0cqo5YfH9GLTtAmRiZWQ2NGU0NDc3ZTBjMWFmMTc1NzNhZTVkNWNlYzJhM2YyMmE2M2M0MzkyOTc4MGE4MzM3ODQ1ZjUzMzM4NjY=",
   "moment": 1622255831769,
   "teamId": "dbed64e4477e0c1af17573ae5d5cec2a3f22a63c43929780a8337845f5333866"
+ },
+ {
+  "challengeId": "c_mon_see_my_vulns",
+  "flag": "7wj+/9HLgmgXe+88D+Io91smGB5O4038NWCoOu9ezdpL+1l+oBfK4VaribNI+wTJv7pxKDZnNrfJ46lch1xiDDAzMWNmZDcyYTg1NTAzMDlkNGZmMWM1MjA1MWJkYjU4MzQ5YTI1YTdiYmUzN2I0YjcwMGIzZTk2ODQ2M2Y1NmU=",
+  "moment": 1622255937394,
+  "teamId": "031cfd72a8550309d4ff1c52051bdb58349a25a7bbe37b4b700b3e968463f56e"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "Rn99tIp4HvdFudqwMzKAhPLjrmZmfkDGH6tLNNuYDDhX6thvhGTioyD4i9rmG1xG3YFKFIEgn4KdPTTOltgKCzk2YjNkMzdhMDI2MDU0NjIzNGFiYzYzOGFmY2M2YjEwNzc0MTUxNTg4MTEyM2IxOTA0ZGY3NmUyMGRiMGI5YTg=",
+  "moment": 1622256262395,
+  "teamId": "96b3d37a0260546234abc638afcc6b107741515881123b1904df76e20db0b9a8"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "a6fH5ipq2N9GnUKurDMlr+H4bzSgjZlJkwg+AMtKjnpCnzwLSVMcmJN7WdB+XBDLKyE4AWR1dtWKIxgDNRhNDDYxYzhkZWYwMDg0M2EzMDUxNDkxZDBhOTBiNzkzOWZmNmQ0MjZiMTE1MzE2NTAyZTdkODEwOTU2NzJhYWEyZGM=",
+  "moment": 1622256364606,
+  "teamId": "61c8def00843a3051491d0a90b7939ff6d426b115316502e7d81095672aaa2dc"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "0uwIm6OR5RffJRodg+jgcEMpGMQfvCZ2KhJNg+zEHiXnfRK28XAKFSxrUP9KaCnH2jv293mpVI4aIB+UflE3CjQwMmMwMWI0NjgwZjI0MGNjOTM2ZTY2MzQ0Mzg2N2U2MmY5YmRiNjNiZjJkNjFiMTlmY2NkNzBlZjU5MmFjMDU=",
+  "moment": 1622256413170,
+  "teamId": "402c01b4680f240cc936e663443867e62f9bdb63bf2d61b19fccd70ef592ac05"
+ },
+ {
+  "challengeId": "illusion",
+  "flag": "RML7L1DSgocm259qGu7c8DahApT3mY83tAkPi8NGb/bINgywqx70lhekWsHKANfqe91HnCk6EPYs3ruHWbE0CDQ3ZGFhMTYzYzRiNTg4NTM1OTViZWM2ODNkYmM3ZWJiODhiMTUyMmIwODRlYWYwOGNmZDI1ZDA1NWQxMjNmNDU=",
+  "moment": 1622256457151,
+  "teamId": "47daa163c4b58853595bec683dbc7ebb88b1522b084eaf08cfd25d055d123f45"
+ },
+ {
+  "challengeId": "small_talk",
+  "flag": "KFel2162ayT7m+Ev/aDXiE5S5+H1cpkI/tDDSwtcQzORfb/Jr25XAGtfng2pJW1kNsib201ufY+z6fcBIvBsB2NmZDViMWUxMjI4NjFlNGVlYTE2MGRhYmQ2MWVjYzJmMjZhOTMwMTc5ZGQyMDQ3OTcwMDZmM2MyN2M5YTZlMWU=",
+  "moment": 1622256464491,
+  "teamId": "cfd5b1e122861e4eea160dabd61ecc2f26a930179dd204797006f3c27c9a6e1e"
  }
 ]
