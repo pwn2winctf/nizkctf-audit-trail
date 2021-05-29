@@ -7307,6 +7307,18 @@
     }
    },
    "team": "Rooks"
+  },
+  {
+   "lastAccept": 1622277451434,
+   "pos": 568,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622277451434
+    }
+   },
+   "team": "EliteSploit"
   }
  ],
  "tasks": [
