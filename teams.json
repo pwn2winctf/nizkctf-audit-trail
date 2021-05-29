@@ -2768,6 +2768,16 @@
  },
  {
   "countries": [
+   "sg"
+  ],
+  "id": "7217997dfd29b372ad48f4f614a6df5df309cfd7e00af591b958b49eb905c191",
+  "members": [
+   "Wa2kjqag6LZ3MoN6DB8mjHRZy6j1"
+  ],
+  "name": "NYCP"
+ },
+ {
+  "countries": [
    "ru"
   ],
   "id": "94d4359a456a727ed3e502f30f923497e310cb59be5508446315fed95543b579",
@@ -4532,6 +4542,16 @@
    "uXwpBZafXfhUvSvyoytyzLTyOhh2"
   ],
   "name": "quriosity"
+ },
+ {
+  "countries": [
+   "au"
+  ],
+  "id": "c600fd30d0f802ebdcbe73036db2d0023400cfe86d3e872d70ffc27e5281f1f0",
+  "members": [
+   "BQSw3J3S4ePckbnWmUL3KfTSxgm2"
+  ],
+  "name": "grepflag"
  },
  {
   "countries": [
