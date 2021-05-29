@@ -4377,6 +4377,16 @@
  },
  {
   "countries": [
+   "ru"
+  ],
+  "id": "e6665010f67595b2a1f1f4a91bab9ef4cfeb9886cfa3304bd1b7c4aff8b7bc10",
+  "members": [
+   "GFADmHKecqWrpCiU86GyYYQugEC2"
+  ],
+  "name": "1c3"
+ },
+ {
+  "countries": [
    "fr"
   ],
   "id": "c42d3c6483caac4dd9b183dccf7e3222cba73a460880683b8860c7c168edea04",
@@ -8303,6 +8313,16 @@
    "A5Wp8rlrQ4RU3nAsx1zzBun8oQK2"
   ],
   "name": "gold dragon"
+ },
+ {
+  "countries": [
+   "us"
+  ],
+  "id": "573213159b6fc29a0f86525815a38cf2c07781f3a7a205457f006069212cd340",
+  "members": [
+   "uBBNbkpmB4UVgW1p8d5aP88bxcU2"
+  ],
+  "name": "LlamaVendors"
  },
  {
   "countries": [

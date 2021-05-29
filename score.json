@@ -47,7 +47,7 @@
   {
    "lastAccept": 1622272147013,
    "pos": 2,
-   "score": 2574,
+   "score": 2562,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -74,7 +74,7 @@
      "time": 1622260728339
     },
     "small_talk": {
-     "points": 406,
+     "points": 394,
      "time": 1622238875998
     },
     "t00_rare": {
@@ -87,7 +87,7 @@
   {
    "lastAccept": 1622264983655,
    "pos": 3,
-   "score": 2517,
+   "score": 2505,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -118,47 +118,15 @@
      "time": 1622240817746
     },
     "small_talk": {
-     "points": 406,
+     "points": 394,
      "time": 1622257701741
     }
    },
    "team": "uuunderflow"
   },
   {
-   "lastAccept": 1622242516356,
-   "pos": 4,
-   "score": 1886,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622230226867
-    },
-    "a2s": {
-     "points": 474,
-     "time": 1622227482403
-    },
-    "illusion": {
-     "points": 228,
-     "time": 1622229639801
-    },
-    "oh_anna_julia": {
-     "points": 308,
-     "time": 1622236891421
-    },
-    "small_talk": {
-     "points": 406,
-     "time": 1622230371799
-    },
-    "t00_rare": {
-     "points": 420,
-     "time": 1622242516356
-    }
-   },
-   "team": "More Smoked Leet Chicken"
-  },
-  {
    "lastAccept": 1622259624918,
-   "pos": 5,
+   "pos": 4,
    "score": 1886,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -189,9 +157,41 @@
    "team": "Organizers"
   },
   {
+   "lastAccept": 1622242516356,
+   "pos": 5,
+   "score": 1874,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622230226867
+    },
+    "a2s": {
+     "points": 474,
+     "time": 1622227482403
+    },
+    "illusion": {
+     "points": 228,
+     "time": 1622229639801
+    },
+    "oh_anna_julia": {
+     "points": 308,
+     "time": 1622236891421
+    },
+    "small_talk": {
+     "points": 394,
+     "time": 1622230371799
+    },
+    "t00_rare": {
+     "points": 420,
+     "time": 1622242516356
+    }
+   },
+   "team": "More Smoked Leet Chicken"
+  },
+  {
    "lastAccept": 1622240515200,
    "pos": 6,
-   "score": 1355,
+   "score": 1343,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -210,7 +210,7 @@
      "time": 1622230256470
     },
     "small_talk": {
-     "points": 406,
+     "points": 394,
      "time": 1622233304339
     }
    },
@@ -355,14 +355,14 @@
   {
    "lastAccept": 1622258123993,
    "pos": 13,
-   "score": 769,
+   "score": 757,
    "taskStats": {
     "dots_exposed": {
      "points": 363,
      "time": 1622258123993
     },
     "small_talk": {
-     "points": 406,
+     "points": 394,
      "time": 1622251650905
     }
    },
@@ -485,8 +485,28 @@
    "team": "0daysober"
   },
   {
-   "lastAccept": 1622262026986,
+   "lastAccept": 1622272695600,
    "pos": 20,
+   "score": 672,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622227697175
+    },
+    "illusion": {
+     "points": 228,
+     "time": 1622232234871
+    },
+    "small_talk": {
+     "points": 394,
+     "time": 1622272695600
+    }
+   },
+   "team": "KUDoS"
+  },
+  {
+   "lastAccept": 1622262026986,
+   "pos": 21,
    "score": 661,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -506,7 +526,7 @@
   },
   {
    "lastAccept": 1622244727427,
-   "pos": 21,
+   "pos": 22,
    "score": 641,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -526,15 +546,15 @@
   },
   {
    "lastAccept": 1622256464491,
-   "pos": 22,
-   "score": 634,
+   "pos": 23,
+   "score": 622,
    "taskStats": {
     "illusion": {
      "points": 228,
      "time": 1622247272716
     },
     "small_talk": {
-     "points": 406,
+     "points": 394,
      "time": 1622256464491
     }
    },
@@ -542,7 +562,7 @@
   },
   {
    "lastAccept": 1622253902582,
-   "pos": 23,
+   "pos": 24,
    "score": 604,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -562,7 +582,7 @@
   },
   {
    "lastAccept": 1622240692843,
-   "pos": 24,
+   "pos": 25,
    "score": 586,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -582,7 +602,7 @@
   },
   {
    "lastAccept": 1622249776923,
-   "pos": 25,
+   "pos": 26,
    "score": 586,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -602,7 +622,7 @@
   },
   {
    "lastAccept": 1622257146121,
-   "pos": 26,
+   "pos": 27,
    "score": 586,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -622,7 +642,7 @@
   },
   {
    "lastAccept": 1622257279442,
-   "pos": 27,
+   "pos": 28,
    "score": 586,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -642,7 +662,7 @@
   },
   {
    "lastAccept": 1622259350572,
-   "pos": 28,
+   "pos": 29,
    "score": 586,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -662,7 +682,7 @@
   },
   {
    "lastAccept": 1622242936315,
-   "pos": 29,
+   "pos": 30,
    "score": 524,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -678,7 +698,7 @@
   },
   {
    "lastAccept": 1622265851455,
-   "pos": 30,
+   "pos": 31,
    "score": 524,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -694,7 +714,7 @@
   },
   {
    "lastAccept": 1622242459010,
-   "pos": 31,
+   "pos": 32,
    "score": 485,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -710,7 +730,7 @@
   },
   {
    "lastAccept": 1622244193914,
-   "pos": 32,
+   "pos": 33,
    "score": 485,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -726,7 +746,7 @@
   },
   {
    "lastAccept": 1622245351540,
-   "pos": 33,
+   "pos": 34,
    "score": 456,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -742,7 +762,7 @@
   },
   {
    "lastAccept": 1622238165578,
-   "pos": 34,
+   "pos": 35,
    "score": 433,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -758,7 +778,7 @@
   },
   {
    "lastAccept": 1622249627066,
-   "pos": 35,
+   "pos": 36,
    "score": 433,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -774,7 +794,7 @@
   },
   {
    "lastAccept": 1622252208698,
-   "pos": 36,
+   "pos": 37,
    "score": 433,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -790,7 +810,7 @@
   },
   {
    "lastAccept": 1622244433577,
-   "pos": 37,
+   "pos": 38,
    "score": 413,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -806,7 +826,7 @@
   },
   {
    "lastAccept": 1622255478444,
-   "pos": 38,
+   "pos": 39,
    "score": 413,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -822,7 +842,7 @@
   },
   {
    "lastAccept": 1622233056578,
-   "pos": 39,
+   "pos": 40,
    "score": 376,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -838,7 +858,7 @@
   },
   {
    "lastAccept": 1622237062147,
-   "pos": 40,
+   "pos": 41,
    "score": 376,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -854,7 +874,7 @@
   },
   {
    "lastAccept": 1622247445663,
-   "pos": 41,
+   "pos": 42,
    "score": 376,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -870,7 +890,7 @@
   },
   {
    "lastAccept": 1622248532029,
-   "pos": 42,
+   "pos": 43,
    "score": 376,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -886,7 +906,7 @@
   },
   {
    "lastAccept": 1622255937394,
-   "pos": 43,
+   "pos": 44,
    "score": 376,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -902,7 +922,7 @@
   },
   {
    "lastAccept": 1622257709447,
-   "pos": 44,
+   "pos": 45,
    "score": 376,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -918,7 +938,7 @@
   },
   {
    "lastAccept": 1622259709546,
-   "pos": 45,
+   "pos": 46,
    "score": 376,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -934,7 +954,7 @@
   },
   {
    "lastAccept": 1622239721963,
-   "pos": 46,
+   "pos": 47,
    "score": 358,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -950,7 +970,7 @@
   },
   {
    "lastAccept": 1622230611628,
-   "pos": 47,
+   "pos": 48,
    "score": 278,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -963,22 +983,6 @@
     }
    },
    "team": "0x62EEN7EA"
-  },
-  {
-   "lastAccept": 1622232234871,
-   "pos": 48,
-   "score": 278,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622227697175
-    },
-    "illusion": {
-     "points": 228,
-     "time": 1622232234871
-    }
-   },
-   "team": "KUDoS"
   },
   {
    "lastAccept": 1622232952157,
