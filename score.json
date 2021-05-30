@@ -3,7 +3,7 @@
   {
    "lastAccept": 1622319152206,
    "pos": 1,
-   "score": 5435,
+   "score": 5417,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -58,7 +58,7 @@
      "time": 1622295350332
     },
     "ruthless_monster": {
-     "points": 453,
+     "points": 435,
      "time": 1622278954896
     },
     "small_talk": {
@@ -139,7 +139,7 @@
   {
    "lastAccept": 1622344206721,
    "pos": 3,
-   "score": 3649,
+   "score": 3631,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -174,7 +174,7 @@
      "time": 1622244707804
     },
     "ruthless_monster": {
-     "points": 453,
+     "points": 435,
      "time": 1622276475910
     },
     "t00_rare": {
@@ -407,7 +407,7 @@
   {
    "lastAccept": 1622328691192,
    "pos": 8,
-   "score": 2990,
+   "score": 2972,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -442,7 +442,7 @@
      "time": 1622328691192
     },
     "ruthless_monster": {
-     "points": 453,
+     "points": 435,
      "time": 1622267271697
     },
     "small_talk": {
@@ -673,8 +673,44 @@
    "team": "hxp"
   },
   {
-   "lastAccept": 1622341349343,
+   "lastAccept": 1622358032448,
    "pos": 14,
+   "score": 1875,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622227697175
+    },
+    "dots_exposed": {
+     "points": 267,
+     "time": 1622336532646
+    },
+    "hackus": {
+     "points": 394,
+     "time": 1622313686189
+    },
+    "illusion": {
+     "points": 161,
+     "time": 1622232234871
+    },
+    "oh_anna_julia": {
+     "points": 228,
+     "time": 1622324128580
+    },
+    "ruthless_monster": {
+     "points": 435,
+     "time": 1622358032448
+    },
+    "small_talk": {
+     "points": 340,
+     "time": 1622272695600
+    }
+   },
+   "team": "KUDoS"
+  },
+  {
+   "lastAccept": 1622341349343,
+   "pos": 15,
    "score": 1847,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -714,7 +750,7 @@
   },
   {
    "lastAccept": 1622348682489,
-   "pos": 15,
+   "pos": 16,
    "score": 1471,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -739,38 +775,6 @@
     }
    },
    "team": "r00timentary"
-  },
-  {
-   "lastAccept": 1622336532646,
-   "pos": 16,
-   "score": 1440,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622227697175
-    },
-    "dots_exposed": {
-     "points": 267,
-     "time": 1622336532646
-    },
-    "hackus": {
-     "points": 394,
-     "time": 1622313686189
-    },
-    "illusion": {
-     "points": 161,
-     "time": 1622232234871
-    },
-    "oh_anna_julia": {
-     "points": 228,
-     "time": 1622324128580
-    },
-    "small_talk": {
-     "points": 340,
-     "time": 1622272695600
-    }
-   },
-   "team": "KUDoS"
   },
   {
    "lastAccept": 1622343750511,
