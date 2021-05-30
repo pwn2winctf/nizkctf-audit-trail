@@ -3,7 +3,7 @@
   {
    "lastAccept": 1622319152206,
    "pos": 1,
-   "score": 5329,
+   "score": 5319,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -58,7 +58,7 @@
      "time": 1622295350332
     },
     "ruthless_monster": {
-     "points": 383,
+     "points": 373,
      "time": 1622278954896
     },
     "small_talk": {
@@ -79,7 +79,7 @@
   {
    "lastAccept": 1622366555309,
    "pos": 2,
-   "score": 4295,
+   "score": 4285,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -126,7 +126,7 @@
      "time": 1622289476525
     },
     "ruthless_monster": {
-     "points": 383,
+     "points": 373,
      "time": 1622366555309
     },
     "small_talk": {
@@ -143,7 +143,7 @@
   {
    "lastAccept": 1622360884227,
    "pos": 3,
-   "score": 3793,
+   "score": 3783,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -186,7 +186,7 @@
      "time": 1622260728339
     },
     "ruthless_monster": {
-     "points": 383,
+     "points": 373,
      "time": 1622360668567
     },
     "small_talk": {
@@ -203,7 +203,7 @@
   {
    "lastAccept": 1622363669866,
    "pos": 4,
-   "score": 3756,
+   "score": 3746,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -246,7 +246,7 @@
      "time": 1622324987006
     },
     "ruthless_monster": {
-     "points": 383,
+     "points": 373,
      "time": 1622363669866
     },
     "small_talk": {
@@ -319,7 +319,7 @@
   {
    "lastAccept": 1622344206721,
    "pos": 6,
-   "score": 3547,
+   "score": 3537,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -354,7 +354,7 @@
      "time": 1622244707804
     },
     "ruthless_monster": {
-     "points": 383,
+     "points": 373,
      "time": 1622276475910
     },
     "t00_rare": {
@@ -423,7 +423,7 @@
   {
    "lastAccept": 1622328691192,
    "pos": 8,
-   "score": 2894,
+   "score": 2884,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -458,7 +458,7 @@
      "time": 1622328691192
     },
     "ruthless_monster": {
-     "points": 383,
+     "points": 373,
      "time": 1622267271697
     },
     "small_talk": {
@@ -519,7 +519,7 @@
   {
    "lastAccept": 1622360112840,
    "pos": 10,
-   "score": 2633,
+   "score": 2623,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -546,7 +546,7 @@
      "time": 1622326888176
     },
     "ruthless_monster": {
-     "points": 383,
+     "points": 373,
      "time": 1622360112840
     },
     "small_talk": {
@@ -609,8 +609,52 @@
    "team": "C4T BuT S4D"
   },
   {
-   "lastAccept": 1622352041305,
+   "lastAccept": 1622368271030,
    "pos": 12,
+   "score": 2192,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622219930688
+    },
+    "baby_write_only_password_manag": {
+     "points": 320,
+     "time": 1622282369838
+    },
+    "c_mon_see_my_vulns": {
+     "points": 208,
+     "time": 1622259578524
+    },
+    "dots_exposed": {
+     "points": 263,
+     "time": 1622269564176
+    },
+    "illusion": {
+     "points": 158,
+     "time": 1622225048931
+    },
+    "lost_exponent": {
+     "points": 260,
+     "time": 1622315719393
+    },
+    "oh_anna_julia": {
+     "points": 220,
+     "time": 1622250129970
+    },
+    "ruthless_monster": {
+     "points": 373,
+     "time": 1622368271030
+    },
+    "small_talk": {
+     "points": 340,
+     "time": 1622341349343
+    }
+   },
+   "team": "ARESx"
+  },
+  {
+   "lastAccept": 1622352041305,
+   "pos": 13,
    "score": 2174,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -654,7 +698,7 @@
   },
   {
    "lastAccept": 1622324641578,
-   "pos": 13,
+   "pos": 14,
    "score": 2027,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -693,49 +737,9 @@
    "team": "hxp"
   },
   {
-   "lastAccept": 1622341349343,
-   "pos": 14,
-   "score": 1819,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622219930688
-    },
-    "baby_write_only_password_manag": {
-     "points": 320,
-     "time": 1622282369838
-    },
-    "c_mon_see_my_vulns": {
-     "points": 208,
-     "time": 1622259578524
-    },
-    "dots_exposed": {
-     "points": 263,
-     "time": 1622269564176
-    },
-    "illusion": {
-     "points": 158,
-     "time": 1622225048931
-    },
-    "lost_exponent": {
-     "points": 260,
-     "time": 1622315719393
-    },
-    "oh_anna_julia": {
-     "points": 220,
-     "time": 1622250129970
-    },
-    "small_talk": {
-     "points": 340,
-     "time": 1622341349343
-    }
-   },
-   "team": "ARESx"
-  },
-  {
    "lastAccept": 1622358032448,
    "pos": 15,
-   "score": 1808,
+   "score": 1798,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -758,7 +762,7 @@
      "time": 1622324128580
     },
     "ruthless_monster": {
-     "points": 383,
+     "points": 373,
      "time": 1622358032448
     },
     "small_talk": {
