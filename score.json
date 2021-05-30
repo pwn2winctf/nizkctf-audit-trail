@@ -1449,10 +1449,14 @@
    "team": "Maple Bacon"
   },
   {
-   "lastAccept": 1622275217291,
+   "lastAccept": 1622345001527,
    "pos": 45,
-   "score": 483,
+   "score": 533,
    "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622345001527
+    },
     "baby_write_only_password_manag": {
      "points": 320,
      "time": 1622275217291
@@ -9511,6 +9515,18 @@
     }
    },
    "team": "wefwef"
+  },
+  {
+   "lastAccept": 1622344829453,
+   "pos": 693,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622344829453
+    }
+   },
+   "team": "CTFCOLOMBIA"
   }
  ],
  "tasks": [
