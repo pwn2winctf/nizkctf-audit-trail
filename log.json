@@ -6652,5 +6652,29 @@
   "flag": "pv/Y0HqGGS76QBAbM+nYEK6oQVxTaHky9ZmYzXpojaI9i3XlW8quxJINbAl+JjlMndLleu9cdMzGqlqtxlmDCmEyYzBjZWM4YmZiMzE1YTA2YmViN2M4MGU3NjRkNDNlNzQ3NmE4MGU0NzViNjkxZjhhM2JkODY0NTQ2ODlkMTc=",
   "moment": 1622391443807,
   "teamId": "a2c0cec8bfb315a06beb7c80e764d43e7476a80e475b691f8a3bd86454689d17"
+ },
+ {
+  "challengeId": "enlighten_me_pt_1",
+  "flag": "iQNuN7gkhNMxfkiM0Z3Bg3MKX6t41vsVnb2np6mZi3cQt2+2EWblNlECQ4UKfGw5QQlviG395GDH2kxDZrHYBGI5YjUxZGZmNDE3ZGYyNTdkZDY1ZjdkNjA0M2E2NjQxZTM2NmMwNzA5NjU5YTk4N2VjMjk5NmQwNDhiNjRlODc=",
+  "moment": 1622391664495,
+  "teamId": "b9b51dff417df257dd65f7d6043a6641e366c0709659a987ec2996d048b64e87"
+ },
+ {
+  "challengeId": "the_return_of_too_slow",
+  "flag": "45bmVaoXN0hmPEUMA80kpnQf5q4j2iiCKCa1aIGjiPpl6Wjs5MtoLPFCcXeSl/Ngh8g5KRPUI6Dp1sshKKZBDWE5MTNkMDhlZmJiNmEyYzM0NTNmZmNjNGRmODkxNzliMDJhYTAyNWE3NDE2YmEyMTYzODViMWUzNjQzYWUxOTg=",
+  "moment": 1622391735891,
+  "teamId": "a913d08efbb6a2c3453ffcc4df89179b02aa025a7416ba216385b1e3643ae198"
+ },
+ {
+  "challengeId": "botnet_the_final_bypass",
+  "flag": "ml1wt1dP1ClQKScPz51XFbhpsM7etyYumeJZ3z+iJdFAYNOjgknlecEzl3zDbJ7kdzAO0nqxdvhXekRRM0BZDzEzMWQ3ZDMzNTM5YTk2MzJhYTU3ZWFhNTYwOTdjYmE2Y2NjOGZiNGRiZTkzNzMxMGMxY2FhNjQxNDkyNjU4NTk=",
+  "moment": 1622391824024,
+  "teamId": "131d7d33539a9632aa57eaa56097cba6ccc8fb4dbe937310c1caa64149265859"
+ },
+ {
+  "challengeId": "small_talk",
+  "flag": "Y9C3M+Z8RLaUOMYmHAZFo/E3qoyYM+ZAMXQz4YSAoqy0YJMVViDzJ99QRg/GqvoeDVmPtZdqiO/EUcaU51FCB2Y5NmMzODg1MWZkNDI5ODNjZjhkZjg4NTRlZGU2NjA4OTU0OTEyNGE3MTFhZmYyNjNhN2Q2ODgxNzIyZjVlM2U=",
+  "moment": 1622391857362,
+  "teamId": "f96c38851fd42983cf8df8854ede66089549124a711aff263a7d6881722f5e3e"
  }
 ]
