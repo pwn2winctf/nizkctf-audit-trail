@@ -6538,5 +6538,47 @@
   "flag": "DKjuf4lJuhR1TBjfUskY4lQ1sBZkzg30rHFZcEQ4SiaLvzHWvMIdIwusElzFeEYat2WfRZz7qGqZ9oI6B6PwDzQ0ZGNkNDhiZDFjNmJhMzZjNmNlZTk1MmZhM2Y2ZGZjZGNkNDlhZDFmNmNkZDBiNDJmNDRiNjYxNDI3YTg4Yjg=",
   "moment": 1622386871615,
   "teamId": "44dcd48bd1c6ba36c6cee952fa3f6dfcdcd49ad1f6cdd0b42f44b661427a88b8"
+ },
+ {
+  "challengeId": "a2s",
+  "flag": "bwl5X+CR1jhdQi7BKdwsaRNrobtvhq2MiRTbE4Jb/VYKxeegIOlqmXlsl5Q3Oi6xowAL52sSyGmCtXTorKixDWE5MTNkMDhlZmJiNmEyYzM0NTNmZmNjNGRmODkxNzliMDJhYTAyNWE3NDE2YmEyMTYzODViMWUzNjQzYWUxOTg=",
+  "moment": 1622389023891,
+  "teamId": "a913d08efbb6a2c3453ffcc4df89179b02aa025a7416ba216385b1e3643ae198"
+ },
+ {
+  "challengeId": "baby_write_only_password_manag",
+  "flag": "w/SeMcgyQgbIpyKMn4w3IkZ147AtwQx7OLJZJiOvN5HWBoryBd/6mEluXNXxKHeAx/TQ8ji/VoBtIn0Pud1RA2E5MTNkMDhlZmJiNmEyYzM0NTNmZmNjNGRmODkxNzliMDJhYTAyNWE3NDE2YmEyMTYzODViMWUzNjQzYWUxOTg=",
+  "moment": 1622389034563,
+  "teamId": "a913d08efbb6a2c3453ffcc4df89179b02aa025a7416ba216385b1e3643ae198"
+ },
+ {
+  "challengeId": "true_write_only_password_manag",
+  "flag": "uneLtqKzzO2qztqbQdGpyjqSuLtZALugkXEQuyD/ZzePdH76imYZowmeWA11PV4BVfZfd5mcw3cs6c0CZt6BC2E5MTNkMDhlZmJiNmEyYzM0NTNmZmNjNGRmODkxNzliMDJhYTAyNWE3NDE2YmEyMTYzODViMWUzNjQzYWUxOTg=",
+  "moment": 1622389040442,
+  "teamId": "a913d08efbb6a2c3453ffcc4df89179b02aa025a7416ba216385b1e3643ae198"
+ },
+ {
+  "challengeId": "messagekeeper",
+  "flag": "uI37BcWMofY8HfCSMksTThPb+BEKe2sRupsZ7NwAlSaKbLv0eo6lT7B2G9a2TzT8R4TxDM2/s3Ba/lpB6WOHAmE5MTNkMDhlZmJiNmEyYzM0NTNmZmNjNGRmODkxNzliMDJhYTAyNWE3NDE2YmEyMTYzODViMWUzNjQzYWUxOTg=",
+  "moment": 1622389049522,
+  "teamId": "a913d08efbb6a2c3453ffcc4df89179b02aa025a7416ba216385b1e3643ae198"
+ },
+ {
+  "challengeId": "ruthless_monster",
+  "flag": "a7flDvQ1xcYDZ1IEdSwhaLv+sBvYJIZgAN7vya9sMWYcrPyJi4NP3iXazTB6R6bFONsVykihLj50A4CVPX08AmE5MTNkMDhlZmJiNmEyYzM0NTNmZmNjNGRmODkxNzliMDJhYTAyNWE3NDE2YmEyMTYzODViMWUzNjQzYWUxOTg=",
+  "moment": 1622389061535,
+  "teamId": "a913d08efbb6a2c3453ffcc4df89179b02aa025a7416ba216385b1e3643ae198"
+ },
+ {
+  "challengeId": "lost_exponent",
+  "flag": "ZdRnCoRxOOuqG1C8UFUK5mH7w2tznHeXG2b6YbZSpTSphdmmGMXce+9hHRl0KJGb1LmwDQer5FSd5CngFqK6A2E5MTNkMDhlZmJiNmEyYzM0NTNmZmNjNGRmODkxNzliMDJhYTAyNWE3NDE2YmEyMTYzODViMWUzNjQzYWUxOTg=",
+  "moment": 1622389066457,
+  "teamId": "a913d08efbb6a2c3453ffcc4df89179b02aa025a7416ba216385b1e3643ae198"
+ },
+ {
+  "challengeId": "enlighten_me_pt_1",
+  "flag": "L8RGNj9wBCKEjv2vtyqCYVSxJ0SL9MCJRtawGnye9XHX0wtQ1KkbKhsbLH7NT5kEpY16FgGK/KTHG/IDT3oqBmE5MTNkMDhlZmJiNmEyYzM0NTNmZmNjNGRmODkxNzliMDJhYTAyNWE3NDE2YmEyMTYzODViMWUzNjQzYWUxOTg=",
+  "moment": 1622389077558,
+  "teamId": "a913d08efbb6a2c3453ffcc4df89179b02aa025a7416ba216385b1e3643ae198"
  }
 ]
