@@ -5400,6 +5400,12 @@
   "teamId": "0f5210c9037836be7d6b5a3d2403632b5c718eac5ecf94e647e0ddd6673426bc"
  },
  {
+  "challengeId": "accessing_the_truth",
+  "flag": "s8AMw3xhrizOJq/Y9nOTgNsehpbVhqTGvqAeld6Ubz7bnCNVMathsD8Tvm6toBAAtWhcDpgO3nIjvCv7DWF8B2FlYmFhNTBjZGQ5MTQ3MjBmZGRjOWRmN2E0MDczNWE3MWQ2NDU2MjIzYTNjMzRiNmM3ZTBkZTM1ZDMzNjVjYzY=",
+  "moment": 1622333008685,
+  "teamId": "aebaa50cdd914720fddc9df7a40735a71d6456223a3c34b6c7e0de35d3365cc6"
+ },
+ {
   "challengeId": "_rhiza_founded_on_the_human_be",
   "flag": "5hppcuDYUOfLedx4R/5NUzuFDe1NkDyBPcCoWB1NHuJU4QZ74OCWq68NQI7znZvUW6cTz94rbK526/Sh2RqfB2NkMDM0YTUxZWRmMWQxMjM2NDAyMmZjMDBkZDE5ZjM0NzllNmM2NjJhODNlZTZiYjRlNmQwZjQ5YmViMjkyMTE=",
   "moment": 1622313873071,
@@ -5794,5 +5800,11 @@
   "flag": "e2uD9+uhRpB7zB6ToZnw+yRybd8vA4IM+P/D1WFTbfyKdeo7WJKPLT/XF8w/3dp3243sTWKe8YnRVJ2GaM4yDmI3YzVlYWM5MzY2NGNlM2NmOWRjNDM0YTY5ZTBmOTMwMjBkYTllMzgwMmIwMDc4NTFkZmRhMmUxNDNhZjAwZGQ=",
   "moment": 1622332462065,
   "teamId": "b7c5eac93664ce3cf9dc434a69e0f93020da9e3802b007851dfda2e143af00dd"
+ },
+ {
+  "challengeId": "oh_anna_julia",
+  "flag": "jZGbkgjTsdO3BeI6twhc2K3xgysbXbjp8I277/kHiYheMyx8N9TWBjGYzCHUxenvAmu9gcNPONOGxddZdvv9DDQ3ZmMwNzQ5ZjliMTkwZTRiZTc1MjQ0ODNhMWI4MTllOTc5OWUzZGMwMjYxNTcyMzhkNTQyNTgxM2Q5MTc3ZjQ=",
+  "moment": 1622333073679,
+  "teamId": "47fc0749f9b190e4be7524483a1b819e9799e3dc026157238d5425813d9177f4"
  }
 ]
