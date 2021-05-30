@@ -3,7 +3,7 @@
   {
    "lastAccept": 1622319152206,
    "pos": 1,
-   "score": 5417,
+   "score": 5402,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -58,7 +58,7 @@
      "time": 1622295350332
     },
     "ruthless_monster": {
-     "points": 435,
+     "points": 420,
      "time": 1622278954896
     },
     "small_talk": {
@@ -139,7 +139,7 @@
   {
    "lastAccept": 1622344206721,
    "pos": 3,
-   "score": 3631,
+   "score": 3616,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -174,7 +174,7 @@
      "time": 1622244707804
     },
     "ruthless_monster": {
-     "points": 435,
+     "points": 420,
      "time": 1622276475910
     },
     "t00_rare": {
@@ -407,7 +407,7 @@
   {
    "lastAccept": 1622328691192,
    "pos": 8,
-   "score": 2972,
+   "score": 2957,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -442,7 +442,7 @@
      "time": 1622328691192
     },
     "ruthless_monster": {
-     "points": 435,
+     "points": 420,
      "time": 1622267271697
     },
     "small_talk": {
@@ -501,8 +501,52 @@
    "team": "Black Bauhinia"
   },
   {
-   "lastAccept": 1622336744175,
+   "lastAccept": 1622360112840,
    "pos": 10,
+   "score": 2677,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622219939983
+    },
+    "accessing_the_truth": {
+     "points": 406,
+     "time": 1622355473542
+    },
+    "baby_write_only_password_manag": {
+     "points": 320,
+     "time": 1622323087711
+    },
+    "dots_exposed": {
+     "points": 267,
+     "time": 1622274961058
+    },
+    "illusion": {
+     "points": 161,
+     "time": 1622255320314
+    },
+    "oldschool_adventures_apple_ii": {
+     "points": 373,
+     "time": 1622326888176
+    },
+    "ruthless_monster": {
+     "points": 420,
+     "time": 1622360112840
+    },
+    "small_talk": {
+     "points": 340,
+     "time": 1622310486981
+    },
+    "the_return_of_too_slow": {
+     "points": 340,
+     "time": 1622355934222
+    }
+   },
+   "team": "PFS"
+  },
+  {
+   "lastAccept": 1622336744175,
+   "pos": 11,
    "score": 2636,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -547,46 +591,6 @@
     }
    },
    "team": "C4T BuT S4D"
-  },
-  {
-   "lastAccept": 1622355934222,
-   "pos": 11,
-   "score": 2257,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622219939983
-    },
-    "accessing_the_truth": {
-     "points": 406,
-     "time": 1622355473542
-    },
-    "baby_write_only_password_manag": {
-     "points": 320,
-     "time": 1622323087711
-    },
-    "dots_exposed": {
-     "points": 267,
-     "time": 1622274961058
-    },
-    "illusion": {
-     "points": 161,
-     "time": 1622255320314
-    },
-    "oldschool_adventures_apple_ii": {
-     "points": 373,
-     "time": 1622326888176
-    },
-    "small_talk": {
-     "points": 340,
-     "time": 1622310486981
-    },
-    "the_return_of_too_slow": {
-     "points": 340,
-     "time": 1622355934222
-    }
-   },
-   "team": "PFS"
   },
   {
    "lastAccept": 1622352041305,
@@ -675,7 +679,7 @@
   {
    "lastAccept": 1622358032448,
    "pos": 14,
-   "score": 1875,
+   "score": 1860,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -698,7 +702,7 @@
      "time": 1622324128580
     },
     "ruthless_monster": {
-     "points": 435,
+     "points": 420,
      "time": 1622358032448
     },
     "small_talk": {
@@ -9619,6 +9623,18 @@
     }
    },
    "team": "Jim's Hacking"
+  },
+  {
+   "lastAccept": 1622359686033,
+   "pos": 698,
+   "score": 50,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622359686033
+    }
+   },
+   "team": "KxDevel"
   }
  ],
  "tasks": [
