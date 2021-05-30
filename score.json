@@ -79,14 +79,14 @@
   {
    "lastAccept": 1622338942653,
    "pos": 2,
-   "score": 3992,
+   "score": 3977,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622220102403
     },
     "accessing_the_truth": {
-     "points": 435,
+     "points": 420,
      "time": 1622333008685
     },
     "baby_write_only_password_manag": {
@@ -195,14 +195,14 @@
   {
    "lastAccept": 1622338155768,
    "pos": 4,
-   "score": 3432,
+   "score": 3417,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622220075151
     },
     "accessing_the_truth": {
-     "points": 435,
+     "points": 420,
      "time": 1622338155768
     },
     "baby_write_only_password_manag": {
@@ -247,14 +247,14 @@
   {
    "lastAccept": 1622324987006,
    "pos": 5,
-   "score": 3250,
+   "score": 3235,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622219890215
     },
     "accessing_the_truth": {
-     "points": 435,
+     "points": 420,
      "time": 1622312613280
     },
     "baby_write_only_password_manag": {
@@ -299,7 +299,7 @@
   {
    "lastAccept": 1622321449663,
    "pos": 6,
-   "score": 3245,
+   "score": 3230,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -310,7 +310,7 @@
      "time": 1622321449663
     },
     "accessing_the_truth": {
-     "points": 435,
+     "points": 420,
      "time": 1622284824648
     },
     "c_mon_see_my_vulns": {
@@ -749,8 +749,32 @@
    "team": "r00timentary"
   },
   {
-   "lastAccept": 1622320884475,
+   "lastAccept": 1622343437430,
    "pos": 17,
+   "score": 1388,
+   "taskStats": {
+    "accessing_the_truth": {
+     "points": 420,
+     "time": 1622343437430
+    },
+    "baby_write_only_password_manag": {
+     "points": 320,
+     "time": 1622238648509
+    },
+    "c_mon_see_my_vulns": {
+     "points": 213,
+     "time": 1622234005572
+    },
+    "enlighten_me_pt_1": {
+     "points": 435,
+     "time": 1622314300249
+    }
+   },
+   "team": "The Flat Network Society"
+  },
+  {
+   "lastAccept": 1622320884475,
+   "pos": 18,
    "score": 1360,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -782,7 +806,7 @@
   },
   {
    "lastAccept": 1622340816426,
-   "pos": 18,
+   "pos": 19,
    "score": 1309,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -814,7 +838,7 @@
   },
   {
    "lastAccept": 1622288131263,
-   "pos": 19,
+   "pos": 20,
    "score": 1280,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -842,7 +866,7 @@
   },
   {
    "lastAccept": 1622320637270,
-   "pos": 20,
+   "pos": 21,
    "score": 1203,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -874,7 +898,7 @@
   },
   {
    "lastAccept": 1622323295521,
-   "pos": 21,
+   "pos": 22,
    "score": 1193,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -902,7 +926,7 @@
   },
   {
    "lastAccept": 1622317926434,
-   "pos": 22,
+   "pos": 23,
    "score": 1120,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -930,7 +954,7 @@
   },
   {
    "lastAccept": 1622308636547,
-   "pos": 23,
+   "pos": 24,
    "score": 990,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -958,7 +982,7 @@
   },
   {
    "lastAccept": 1622332411723,
-   "pos": 24,
+   "pos": 25,
    "score": 972,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -983,26 +1007,6 @@
     }
    },
    "team": "FireShell"
-  },
-  {
-   "lastAccept": 1622314300249,
-   "pos": 25,
-   "score": 968,
-   "taskStats": {
-    "baby_write_only_password_manag": {
-     "points": 320,
-     "time": 1622238648509
-    },
-    "c_mon_see_my_vulns": {
-     "points": 213,
-     "time": 1622234005572
-    },
-    "enlighten_me_pt_1": {
-     "points": 435,
-     "time": 1622314300249
-    }
-   },
-   "team": "The Flat Network Society"
   },
   {
    "lastAccept": 1622308906263,
