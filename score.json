@@ -697,8 +697,36 @@
    "team": "PFS"
   },
   {
-   "lastAccept": 1622336532646,
+   "lastAccept": 1622348682489,
    "pos": 15,
+   "score": 1478,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622348682489
+    },
+    "dots_exposed": {
+     "points": 267,
+     "time": 1622258123993
+    },
+    "pe_analysis": {
+     "points": 474,
+     "time": 1622311919085
+    },
+    "small_talk": {
+     "points": 340,
+     "time": 1622251650905
+    },
+    "the_return_of_too_slow": {
+     "points": 347,
+     "time": 1622292691896
+    }
+   },
+   "team": "r00timentary"
+  },
+  {
+   "lastAccept": 1622336532646,
+   "pos": 16,
    "score": 1443,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -730,7 +758,7 @@
   },
   {
    "lastAccept": 1622343750511,
-   "pos": 16,
+   "pos": 17,
    "score": 1438,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -755,30 +783,6 @@
     }
    },
    "team": "The Flat Network Society"
-  },
-  {
-   "lastAccept": 1622311919085,
-   "pos": 17,
-   "score": 1428,
-   "taskStats": {
-    "dots_exposed": {
-     "points": 267,
-     "time": 1622258123993
-    },
-    "pe_analysis": {
-     "points": 474,
-     "time": 1622311919085
-    },
-    "small_talk": {
-     "points": 340,
-     "time": 1622251650905
-    },
-    "the_return_of_too_slow": {
-     "points": 347,
-     "time": 1622292691896
-    }
-   },
-   "team": "r00timentary"
   },
   {
    "lastAccept": 1622320884475,
