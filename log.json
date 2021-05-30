@@ -6034,5 +6034,23 @@
   "flag": "uUrC0Eqt8sQShAjcKHJpK72I8C3h+I78gfvaH7TV/0CjmwKcls7Y5aorqT071D308E3F/5FxWYuE6FzzzYNDCjlmMDQ5MDRkNmI5ZjdkMDJjZTI5MjA1Zjg2NTVmNjViMDdmYjg3OWIwZjNiNGIyZGVmNDcxMjljY2QxMmIzNWY=",
   "moment": 1622355234784,
   "teamId": "9f04904d6b9f7d02ce29205f8655f65b07fb879b0f3b4b2def47129ccd12b35f"
+ },
+ {
+  "challengeId": "accessing_the_truth",
+  "flag": "jtr2qKF5XIe953kT8gdkqSZyGo2JknD62ePe9th/TQiiTg17uocby+AENFjjx/4UYGDzKa7RDGnePt2Y/7D4AmYyYTNlNGJjYjk2MDNiNWYxZTBhODczNDhiM2IwYTgxODYwNzBmNDM2ZjU0YTJlNzI0MjA3MWU3OTI0ZjU1ZTg=",
+  "moment": 1622355473542,
+  "teamId": "f2a3e4bcb9603b5f1e0a87348b3b0a8186070f436f54a2e7242071e7924f55e8"
+ },
+ {
+  "challengeId": "c_mon_see_my_vulns",
+  "flag": "Uw/EPFWLc62/U6PpPIV0YVnR3C6BDkiQT9YbusI2aMErz5nHcTf8nc0bDcvIeGmJ5lBLsL4Dwc0bKN3fFCR8BWZjZGZhODU4M2QxYjM3ZTYyNjAxMjdjZTY0MjVmZjZjMjRhOTQ1NGI5Njg5OGI2MzZiYWFmMjYwNzVjOTY1MmI=",
+  "moment": 1622355615953,
+  "teamId": "fcdfa8583d1b37e6260127ce6425ff6c24a9454b96898b636baaf26075c9652b"
+ },
+ {
+  "challengeId": "the_return_of_too_slow",
+  "flag": "6/JwerXd82yhoeIjduKqG+9a8cNu2JKB+hNATcYgb+Hy7IL/YMMTuYwve1R6GSVZ5e7Y57Gcks61EuiaNd4PBmYyYTNlNGJjYjk2MDNiNWYxZTBhODczNDhiM2IwYTgxODYwNzBmNDM2ZjU0YTJlNzI0MjA3MWU3OTI0ZjU1ZTg=",
+  "moment": 1622355934222,
+  "teamId": "f2a3e4bcb9603b5f1e0a87348b3b0a8186070f436f54a2e7242071e7924f55e8"
  }
 ]
