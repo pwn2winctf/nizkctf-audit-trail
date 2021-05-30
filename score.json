@@ -3,7 +3,7 @@
   {
    "lastAccept": 1622319152206,
    "pos": 1,
-   "score": 5567,
+   "score": 5549,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -30,7 +30,7 @@
      "time": 1622239547285
     },
     "enlighten_me_pt_1": {
-     "points": 453,
+     "points": 435,
      "time": 1622319152206
     },
     "hackus": {
@@ -77,56 +77,60 @@
    "team": "uuunderflow"
   },
   {
-   "lastAccept": 1622324987006,
+   "lastAccept": 1622334676953,
    "pos": 2,
-   "score": 3334,
+   "score": 3685,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
-     "time": 1622219890215
+     "time": 1622230226867
     },
-    "accessing_the_truth": {
-     "points": 453,
-     "time": 1622312613280
+    "a2s": {
+     "points": 394,
+     "time": 1622227482403
     },
     "baby_write_only_password_manag": {
      "points": 320,
-     "time": 1622283169083
+     "time": 1622317280563
     },
-    "dots_exposed": {
-     "points": 271,
-     "time": 1622300667799
+    "c_mon_see_my_vulns": {
+     "points": 215,
+     "time": 1622284037324
+    },
+    "cladorhizidae": {
+     "points": 383,
+     "time": 1622278881557
     },
     "enlighten_me_pt_1": {
-     "points": 453,
-     "time": 1622324083252
+     "points": 435,
+     "time": 1622334676953
     },
     "illusion": {
      "points": 163,
-     "time": 1622254986159
+     "time": 1622229639801
+    },
+    "kangurei": {
+     "points": 474,
+     "time": 1622282335497
     },
     "lost_exponent": {
      "points": 288,
-     "time": 1622298896921
+     "time": 1622308991081
     },
     "oh_anna_julia": {
      "points": 243,
-     "time": 1622316555885
-    },
-    "oldschool_adventures_apple_ii": {
-     "points": 383,
-     "time": 1622324987006
+     "time": 1622236891421
     },
     "small_talk": {
      "points": 347,
-     "time": 1622306787479
+     "time": 1622230371799
     },
-    "the_return_of_too_slow": {
-     "points": 363,
-     "time": 1622272042290
+    "t00_rare": {
+     "points": 373,
+     "time": 1622242516356
     }
    },
-   "team": "Never Stop Exploiting"
+   "team": "More Smoked Leet Chicken"
   },
   {
    "lastAccept": 1622333008685,
@@ -181,8 +185,60 @@
    "team": "justCatTheFish"
   },
   {
-   "lastAccept": 1622321449663,
+   "lastAccept": 1622324987006,
    "pos": 4,
+   "score": 3316,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622219890215
+    },
+    "accessing_the_truth": {
+     "points": 453,
+     "time": 1622312613280
+    },
+    "baby_write_only_password_manag": {
+     "points": 320,
+     "time": 1622283169083
+    },
+    "dots_exposed": {
+     "points": 271,
+     "time": 1622300667799
+    },
+    "enlighten_me_pt_1": {
+     "points": 435,
+     "time": 1622324083252
+    },
+    "illusion": {
+     "points": 163,
+     "time": 1622254986159
+    },
+    "lost_exponent": {
+     "points": 288,
+     "time": 1622298896921
+    },
+    "oh_anna_julia": {
+     "points": 243,
+     "time": 1622316555885
+    },
+    "oldschool_adventures_apple_ii": {
+     "points": 383,
+     "time": 1622324987006
+    },
+    "small_talk": {
+     "points": 347,
+     "time": 1622306787479
+    },
+    "the_return_of_too_slow": {
+     "points": 363,
+     "time": 1622272042290
+    }
+   },
+   "team": "Never Stop Exploiting"
+  },
+  {
+   "lastAccept": 1622321449663,
+   "pos": 5,
    "score": 3303,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -231,58 +287,6 @@
     }
    },
    "team": "Super Guesser"
-  },
-  {
-   "lastAccept": 1622317280563,
-   "pos": 5,
-   "score": 3250,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622230226867
-    },
-    "a2s": {
-     "points": 394,
-     "time": 1622227482403
-    },
-    "baby_write_only_password_manag": {
-     "points": 320,
-     "time": 1622317280563
-    },
-    "c_mon_see_my_vulns": {
-     "points": 215,
-     "time": 1622284037324
-    },
-    "cladorhizidae": {
-     "points": 383,
-     "time": 1622278881557
-    },
-    "illusion": {
-     "points": 163,
-     "time": 1622229639801
-    },
-    "kangurei": {
-     "points": 474,
-     "time": 1622282335497
-    },
-    "lost_exponent": {
-     "points": 288,
-     "time": 1622308991081
-    },
-    "oh_anna_julia": {
-     "points": 243,
-     "time": 1622236891421
-    },
-    "small_talk": {
-     "points": 347,
-     "time": 1622230371799
-    },
-    "t00_rare": {
-     "points": 373,
-     "time": 1622242516356
-    }
-   },
-   "team": "More Smoked Leet Chicken"
   },
   {
    "lastAccept": 1622308975747,
@@ -897,28 +901,8 @@
    "team": "httpizza"
   },
   {
-   "lastAccept": 1622314300249,
-   "pos": 23,
-   "score": 988,
-   "taskStats": {
-    "baby_write_only_password_manag": {
-     "points": 320,
-     "time": 1622238648509
-    },
-    "c_mon_see_my_vulns": {
-     "points": 215,
-     "time": 1622234005572
-    },
-    "enlighten_me_pt_1": {
-     "points": 453,
-     "time": 1622314300249
-    }
-   },
-   "team": "The Flat Network Society"
-  },
-  {
    "lastAccept": 1622332411723,
-   "pos": 24,
+   "pos": 23,
    "score": 987,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -943,6 +927,26 @@
     }
    },
    "team": "FireShell"
+  },
+  {
+   "lastAccept": 1622314300249,
+   "pos": 24,
+   "score": 970,
+   "taskStats": {
+    "baby_write_only_password_manag": {
+     "points": 320,
+     "time": 1622238648509
+    },
+    "c_mon_see_my_vulns": {
+     "points": 215,
+     "time": 1622234005572
+    },
+    "enlighten_me_pt_1": {
+     "points": 435,
+     "time": 1622314300249
+    }
+   },
+   "team": "The Flat Network Society"
   },
   {
    "lastAccept": 1622278190294,
