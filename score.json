@@ -3,7 +3,7 @@
   {
    "lastAccept": 1622391735891,
    "pos": 1,
-   "score": 6829,
+   "score": 6819,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -38,7 +38,7 @@
      "time": 1622389077558
     },
     "hackus": {
-     "points": 373,
+     "points": 363,
      "time": 1622379676576
     },
     "highest_power": {
@@ -95,7 +95,7 @@
   {
    "lastAccept": 1622391824024,
    "pos": 2,
-   "score": 5818,
+   "score": 5808,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -134,7 +134,7 @@
      "time": 1622319152206
     },
     "hackus": {
-     "points": 373,
+     "points": 363,
      "time": 1622237049619
     },
     "illusion": {
@@ -179,7 +179,7 @@
   {
    "lastAccept": 1622383567644,
    "pos": 3,
-   "score": 4395,
+   "score": 4385,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -206,7 +206,7 @@
      "time": 1622296028899
     },
     "hackus": {
-     "points": 373,
+     "points": 363,
      "time": 1622298453700
     },
     "illusion": {
@@ -247,7 +247,7 @@
   {
    "lastAccept": 1622391443807,
    "pos": 4,
-   "score": 4371,
+   "score": 4361,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -274,7 +274,7 @@
      "time": 1622373211919
     },
     "hackus": {
-     "points": 373,
+     "points": 363,
      "time": 1622374990096
     },
     "illusion": {
@@ -315,7 +315,7 @@
   {
    "lastAccept": 1622386798449,
    "pos": 5,
-   "score": 4021,
+   "score": 4011,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -342,7 +342,7 @@
      "time": 1622286819449
     },
     "hackus": {
-     "points": 373,
+     "points": 363,
      "time": 1622320556076
     },
     "illusion": {
@@ -379,7 +379,7 @@
   {
    "lastAccept": 1622391664495,
    "pos": 6,
-   "score": 3957,
+   "score": 3947,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -410,7 +410,7 @@
      "time": 1622391664495
     },
     "hackus": {
-     "points": 373,
+     "points": 363,
      "time": 1622265665619
     },
     "illusion": {
@@ -441,9 +441,9 @@
    "team": "Super Guesser"
   },
   {
-   "lastAccept": 1622363669866,
+   "lastAccept": 1622392616422,
    "pos": 7,
-   "score": 3507,
+   "score": 3870,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -468,6 +468,10 @@
     "enlighten_me_pt_1": {
      "points": 394,
      "time": 1622324083252
+    },
+    "hackus": {
+     "points": 363,
+     "time": 1622392616422
     },
     "illusion": {
      "points": 152,
@@ -1007,7 +1011,7 @@
   {
    "lastAccept": 1622358032448,
    "pos": 19,
-   "score": 1684,
+   "score": 1674,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -1018,7 +1022,7 @@
      "time": 1622336532646
     },
     "hackus": {
-     "points": 373,
+     "points": 363,
      "time": 1622313686189
     },
     "illusion": {
@@ -1313,36 +1317,8 @@
    "team": "Tea MSG"
   },
   {
-   "lastAccept": 1622384433223,
-   "pos": 29,
-   "score": 1098,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622220788828
-    },
-    "hackus": {
-     "points": 373,
-     "time": 1622308906263
-    },
-    "illusion": {
-     "points": 152,
-     "time": 1622270598408
-    },
-    "oh_anna_julia": {
-     "points": 203,
-     "time": 1622384433223
-    },
-    "small_talk": {
-     "points": 320,
-     "time": 1622276479226
-    }
-   },
-   "team": "TokyoWesterns"
-  },
-  {
    "lastAccept": 1622320637270,
-   "pos": 30,
+   "pos": 29,
    "score": 1097,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -1374,7 +1350,7 @@
   },
   {
    "lastAccept": 1622385684817,
-   "pos": 31,
+   "pos": 30,
    "score": 1097,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -1406,7 +1382,7 @@
   },
   {
    "lastAccept": 1622389960752,
-   "pos": 32,
+   "pos": 31,
    "score": 1093,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -1431,6 +1407,34 @@
     }
    },
    "team": "0daysober"
+  },
+  {
+   "lastAccept": 1622384433223,
+   "pos": 32,
+   "score": 1088,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622220788828
+    },
+    "hackus": {
+     "points": 363,
+     "time": 1622308906263
+    },
+    "illusion": {
+     "points": 152,
+     "time": 1622270598408
+    },
+    "oh_anna_julia": {
+     "points": 203,
+     "time": 1622384433223
+    },
+    "small_talk": {
+     "points": 320,
+     "time": 1622276479226
+    }
+   },
+   "team": "TokyoWesterns"
   },
   {
    "lastAccept": 1622381768066,
@@ -1779,14 +1783,14 @@
   {
    "lastAccept": 1622258513232,
    "pos": 47,
-   "score": 575,
+   "score": 565,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622234337614
     },
     "hackus": {
-     "points": 373,
+     "points": 363,
      "time": 1622258513232
     },
     "illusion": {
