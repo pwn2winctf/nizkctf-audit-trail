@@ -4764,6 +4764,12 @@
   "teamId": "28c92199cc89e96b401a3fa5d5c430fea38bd3c146978b2d09147e2db867b38a"
  },
  {
+  "challengeId": "oh_anna_julia",
+  "flag": "84xxtOZFt/OkOmLfqyFPRdyGQIv69VXMY5KtBJBGB/9+Zrlmj6D9LhTASQk+/oVX+vLn/OumC5zcjvLdUZ4xBTVlMzg2N2M4NWQ4NzI2OWVhZGI3OTA4MDQ5YmMwMWE1YzhiNDFiOTYzODNiYzI3YTBmZDRmMjY2ZGI1YjgyMjU=",
+  "moment": 1622341775592,
+  "teamId": "5e3867c85d87269eadb7908049bc01a5c8b41b96383bc27a0fd4f266db5b8225"
+ },
+ {
   "challengeId": "_rhiza_founded_on_the_human_be",
   "flag": "28U2S4T0LjCB6Hya/bO5fzPxhDbg0prXJ593RFUt9/i9JrkaMygZn1JRl7oF2JxPvUeVKgJNk7z6QgpAyr4rDjUwNjNkZDY1ZTQxYzMwMGZiODUwNjZhYzQ0OTM2MzY2NTFmODAzZTBjNzI4YTI3YzJhYmNhNjVkZTQ4YWUxNDk=",
   "moment": 1622295317763,
@@ -5914,5 +5920,17 @@
   "flag": "WxDoMvKUx2qYdvq3Op79f4FF0y3iOnNDAy7VRem7EZtO5ULMVFpq8QV5/NrvuJyoyz1fgy+zxnuyxMNcodycCGNkMGVmOGNlMzVjNTUyYmFiYWExMzBlNzM3MWJkNjQwMGY2NTI2MTI4ZDhlMWJhNzlhOWNkMjQ1ZjFjY2Q3MDQ=",
   "moment": 1622339682054,
   "teamId": "cd0ef8ce35c552babaa130e7371bd6400f6526128d8e1ba79a9cd245f1ccd704"
+ },
+ {
+  "challengeId": "small_talk",
+  "flag": "ibLEkhghGNH8a+MnbCbTXk3Z2CtC/CYcdlh0AybIrJBHeeqlT9SQNBKtJqVz4m7kXSttY9wyT9gfMPtd5PLRAjE0OTI5YWZhZGNmNmE0OTg4MDAxYTRkM2YxZGZiOTJjNzk0ZWFkOGFkNzdiZTIzYThlYWQxNTk0YjEzYzZjMDc=",
+  "moment": 1622341349343,
+  "teamId": "14929afadcf6a4988001a4d3f1dfb92c794ead8ad77be23a8ead1594b13c6c07"
+ },
+ {
+  "challengeId": "oh_anna_julia",
+  "flag": "ZaYQ5VnMO2iVJbGF+9F/Xe73Z2FdR5ZzjgNqygWYzLkP09nqsFgW4ul7r8ctwE1AmhFMfmbr9vOV1D+MuAYsAmNlNmUyMGMxNTc2NjU3ZGU4MGU3OWZkM2Y2YTRhNGE3ZDRhYThlMTk3OTRjMjMwNGY2ODNmMTdmOTVhN2ZlMjE=",
+  "moment": 1622341709069,
+  "teamId": "ce6e20c1576657de80e79fd3f6a4a4a7d4aa8e19794c2304f683f17f95a7fe21"
  }
 ]
