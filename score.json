@@ -3,7 +3,7 @@
   {
    "lastAccept": 1622319152206,
    "pos": 1,
-   "score": 5352,
+   "score": 5341,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -58,7 +58,7 @@
      "time": 1622295350332
     },
     "ruthless_monster": {
-     "points": 394,
+     "points": 383,
      "time": 1622278954896
     },
     "small_talk": {
@@ -77,9 +77,9 @@
    "team": "uuunderflow"
   },
   {
-   "lastAccept": 1622338942653,
+   "lastAccept": 1622366555309,
    "pos": 2,
-   "score": 3924,
+   "score": 4307,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -125,6 +125,10 @@
      "points": 225,
      "time": 1622289476525
     },
+    "ruthless_monster": {
+     "points": 383,
+     "time": 1622366555309
+    },
     "small_talk": {
      "points": 340,
      "time": 1622280388076
@@ -139,7 +143,7 @@
   {
    "lastAccept": 1622360884227,
    "pos": 3,
-   "score": 3816,
+   "score": 3805,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -182,7 +186,7 @@
      "time": 1622260728339
     },
     "ruthless_monster": {
-     "points": 394,
+     "points": 383,
      "time": 1622360668567
     },
     "small_talk": {
@@ -199,7 +203,7 @@
   {
    "lastAccept": 1622363669866,
    "pos": 4,
-   "score": 3779,
+   "score": 3768,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -242,7 +246,7 @@
      "time": 1622324987006
     },
     "ruthless_monster": {
-     "points": 394,
+     "points": 383,
      "time": 1622363669866
     },
     "small_talk": {
@@ -315,7 +319,7 @@
   {
    "lastAccept": 1622344206721,
    "pos": 6,
-   "score": 3570,
+   "score": 3559,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -350,7 +354,7 @@
      "time": 1622244707804
     },
     "ruthless_monster": {
-     "points": 394,
+     "points": 383,
      "time": 1622276475910
     },
     "t00_rare": {
@@ -419,7 +423,7 @@
   {
    "lastAccept": 1622328691192,
    "pos": 8,
-   "score": 2915,
+   "score": 2904,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -454,7 +458,7 @@
      "time": 1622328691192
     },
     "ruthless_monster": {
-     "points": 394,
+     "points": 383,
      "time": 1622267271697
     },
     "small_talk": {
@@ -515,7 +519,7 @@
   {
    "lastAccept": 1622360112840,
    "pos": 10,
-   "score": 2646,
+   "score": 2635,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -542,7 +546,7 @@
      "time": 1622326888176
     },
     "ruthless_monster": {
-     "points": 394,
+     "points": 383,
      "time": 1622360112840
     },
     "small_talk": {
@@ -731,7 +735,7 @@
   {
    "lastAccept": 1622358032448,
    "pos": 15,
-   "score": 1826,
+   "score": 1815,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
@@ -754,7 +758,7 @@
      "time": 1622324128580
     },
     "ruthless_monster": {
-     "points": 394,
+     "points": 383,
      "time": 1622358032448
     },
     "small_talk": {
