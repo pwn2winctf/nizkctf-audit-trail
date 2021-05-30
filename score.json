@@ -77,8 +77,64 @@
    "team": "uuunderflow"
   },
   {
-   "lastAccept": 1622334676953,
+   "lastAccept": 1622335388792,
    "pos": 2,
+   "score": 3772,
+   "taskStats": {
+    "_rhiza_founded_on_the_human_be": {
+     "points": 50,
+     "time": 1622220102403
+    },
+    "accessing_the_truth": {
+     "points": 453,
+     "time": 1622333008685
+    },
+    "baby_write_only_password_manag": {
+     "points": 320,
+     "time": 1622241546676
+    },
+    "botnet_the_final_bypass": {
+     "points": 453,
+     "time": 1622335388792
+    },
+    "c_mon_see_my_vulns": {
+     "points": 215,
+     "time": 1622236421294
+    },
+    "dots_exposed": {
+     "points": 271,
+     "time": 1622296028899
+    },
+    "hackus": {
+     "points": 394,
+     "time": 1622298453700
+    },
+    "illusion": {
+     "points": 163,
+     "time": 1622223837826
+    },
+    "messagekeeper": {
+     "points": 500,
+     "time": 1622315415629
+    },
+    "oh_anna_julia": {
+     "points": 243,
+     "time": 1622289476525
+    },
+    "small_talk": {
+     "points": 347,
+     "time": 1622280388076
+    },
+    "the_return_of_too_slow": {
+     "points": 363,
+     "time": 1622308301406
+    }
+   },
+   "team": "justCatTheFish"
+  },
+  {
+   "lastAccept": 1622334676953,
+   "pos": 3,
    "score": 3685,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
@@ -131,58 +187,6 @@
     }
    },
    "team": "More Smoked Leet Chicken"
-  },
-  {
-   "lastAccept": 1622333008685,
-   "pos": 3,
-   "score": 3319,
-   "taskStats": {
-    "_rhiza_founded_on_the_human_be": {
-     "points": 50,
-     "time": 1622220102403
-    },
-    "accessing_the_truth": {
-     "points": 453,
-     "time": 1622333008685
-    },
-    "baby_write_only_password_manag": {
-     "points": 320,
-     "time": 1622241546676
-    },
-    "c_mon_see_my_vulns": {
-     "points": 215,
-     "time": 1622236421294
-    },
-    "dots_exposed": {
-     "points": 271,
-     "time": 1622296028899
-    },
-    "hackus": {
-     "points": 394,
-     "time": 1622298453700
-    },
-    "illusion": {
-     "points": 163,
-     "time": 1622223837826
-    },
-    "messagekeeper": {
-     "points": 500,
-     "time": 1622315415629
-    },
-    "oh_anna_julia": {
-     "points": 243,
-     "time": 1622289476525
-    },
-    "small_talk": {
-     "points": 347,
-     "time": 1622280388076
-    },
-    "the_return_of_too_slow": {
-     "points": 363,
-     "time": 1622308301406
-    }
-   },
-   "team": "justCatTheFish"
   },
   {
    "lastAccept": 1622324987006,
@@ -339,14 +343,14 @@
   {
    "lastAccept": 1622328691192,
    "pos": 7,
-   "score": 3066,
+   "score": 3045,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622219851869
     },
     "botnet_the_final_bypass": {
-     "points": 474,
+     "points": 453,
      "time": 1622315731834
     },
     "dots_exposed": {
@@ -731,14 +735,14 @@
   {
    "lastAccept": 1622288131263,
    "pos": 17,
-   "score": 1313,
+   "score": 1292,
    "taskStats": {
     "_rhiza_founded_on_the_human_be": {
      "points": 50,
      "time": 1622220022606
     },
     "botnet_the_final_bypass": {
-     "points": 474,
+     "points": 453,
      "time": 1622287077285
     },
     "illusion": {
