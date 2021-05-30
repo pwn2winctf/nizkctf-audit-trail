@@ -6604,5 +6604,41 @@
   "flag": "2V4I1SuujYPz4jv0pkE9TxdUsd3N9CraPo6Nl8Fap62yJDXIEqKGd5k4jkC11w/BbXw2oJ0VmsXBeAZFfgD3BmRmNzFmOGJmMzE3NWU5ZjI0ODgyMzEwYjM4MGIyMmYzNWI1YWQ4ZWZjMGZiMTY0MTljZWZlYjRiNjEyNDA2NWY=",
   "moment": 1622389296949,
   "teamId": "df71f8bf3175e9f24882310b380b22f35b5ad8efc0fb16419cefeb4b6124065f"
+ },
+ {
+  "challengeId": "c_mon_see_my_vulns",
+  "flag": "gs0A/drIlwhfo2aBAx0m/chq8zf2chiUb4p8zFL+ZNWHR14ik+F3gmi+a674iq8vw6C/Hx12jqFkxURdoVUEBTQ3ZmMwNzQ5ZjliMTkwZTRiZTc1MjQ0ODNhMWI4MTllOTc5OWUzZGMwMjYxNTcyMzhkNTQyNTgxM2Q5MTc3ZjQ=",
+  "moment": 1622389815883,
+  "teamId": "47fc0749f9b190e4be7524483a1b819e9799e3dc026157238d5425813d9177f4"
+ },
+ {
+  "challengeId": "enlighten_me_pt_1",
+  "flag": "xJ7u4PGRvFNY337utmkQJpuWRoeP06cCzPcNSu0sdMWlAhF5dmD3QTifhsEdZvH3vvBhOZ/ambyPcfG9k1pmDWY5ZDVjM2EzMTliMWMxOTNkMGM4NWE2NWY1ZGNjMDVmYWIwOGQwNDhjYzExZDQyMzRlMzc3NzAxZWVmY2MxZmI=",
+  "moment": 1622389960752,
+  "teamId": "f9d5c3a319b1c193d0c85a65f5dcc05fab08d048cc11d4234e377701eefcc1fb"
+ },
+ {
+  "challengeId": "illusion",
+  "flag": "tbhCiWMJjodti94MQrUN45i54qKVm6xxG41wXPN5eSr06zAmZV/wrbmTWoldFiedM118pUzDozCqpVaRkYyZCTYyMmRiZGMwY2ZiMWY2NjAxZDZiOGRmYjQ0ZjZmMjkwMGQxN2E3Mzc4NzAzMGM1MmFmNmVjMGJkNzE4Y2Q5MzQ=",
+  "moment": 1622389973952,
+  "teamId": "622dbdc0cfb1f6601d6b8dfb44f6f2900d17a73787030c52af6ec0bd718cd934"
+ },
+ {
+  "challengeId": "c_mon_see_my_vulns",
+  "flag": "D7Je0HNm1b4ZO1OShcEp8Tga1IT5sG0Z8AiOe+M/ZovKQLjpFzLQ3nS+wNFhK6O3RkORShhVN9nhKr4rSmvZD2NiMzkyMjkyY2YxNzBhMjg0ZTI3YmVlYWVlMzU5ZjEyZTUyMmY1Y2ZjNzc4NDM2OTlmM2U0MzU0Y2M3YTI4ZWM=",
+  "moment": 1622390335317,
+  "teamId": "cb392292cf170a284e27beeaee359f12e522f5cfc77843699f3e4354cc7a28ec"
+ },
+ {
+  "challengeId": "true_write_only_password_manag",
+  "flag": "03u/FNQdk9gQWTRx96HWpODuAlRykLHfU6abUVybUUAOsNfVoZBdpHKqMGjWN3ECcTw1wNLpV5Uji7xQUfU1C2NiMzkyMjkyY2YxNzBhMjg0ZTI3YmVlYWVlMzU5ZjEyZTUyMmY1Y2ZjNzc4NDM2OTlmM2U0MzU0Y2M3YTI4ZWM=",
+  "moment": 1622390445320,
+  "teamId": "cb392292cf170a284e27beeaee359f12e522f5cfc77843699f3e4354cc7a28ec"
+ },
+ {
+  "challengeId": "_rhiza_founded_on_the_human_be",
+  "flag": "Tv1psJEErDgUpUuzkpGOqwf99yfDHbGXKo+3qG0/8D2GyWo4K1mcz7Bw2C3Dm8/2o++O0FOLuMiqKmm+yFBcAmYyYWIzZDFkMWYyMmUyMDhmZWFjM2U0MmY4YmEwZGUxZDljNGJiZDhlOTJkNjBlMTgxYWJhNmViNjkxYjk1OWM=",
+  "moment": 1622390808432,
+  "teamId": "f2ab3d1d1f22e208feac3e42f8ba0de1d9c4bbd8e92d60e181aba6eb691b959c"
  }
 ]
